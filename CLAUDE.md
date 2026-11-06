@@ -22,13 +22,22 @@ copyright lines are therefore still the **demo placeholder content**, not the br
 |---|---|---|---|---|---|
 | `TAMTAM PRICE` (`0:1`) | TamTam Price | Hyper **Nexvo** | Consumer electronics | Archivo | [docs/figma/tamtam-price.md](docs/figma/tamtam-price.md) |
 | `MISTERCUCINA` (`1:2`) | MisterCucina | Hyper **Pillar** | Men's apparel | Bricolage Grotesque | [docs/figma/mistercucina.md](docs/figma/mistercucina.md) |
-| `TROVINCASSO` (`1:3`) | Trovincasso | Hyper **Garace** (logo reads "HYPER") | Furniture / home | Instrument Sans | [docs/figma/trovincasso.md](docs/figma/trovincasso.md) |
+| `TROVINCASSO` (`1:3`) | **Trovaincasso** (trovaincasso.it) | Hyper **Hyper** (default preset; demo store "Garace", logo reads "HYPER") | Furniture / home | Instrument Sans | [docs/figma/trovincasso.md](docs/figma/trovincasso.md) |
+
+All three brands sell **home appliances** (elettrodomestici). They belong to the same group (Mosciano Sant'Angelo, TE).
 
 Shared structure, tokens and editing rules: [docs/figma/overview.md](docs/figma/overview.md).
+**Brand styles (restyling, authoritative):** [docs/brand/brand-tokens.md](docs/brand/brand-tokens.md), with the source files in `docs/DESIGN/`.
+**Content from the live sites (structure, copy, products only):** [docs/content/content-research.md](docs/content/content-research.md).
 Full node trees (ids, names, positions, sizes): `docs/figma/raw/*.metadata.xml`.
 Full-page renders: `docs/screenshots/*.png`.
 
 ## Things to know before editing
+
+- **Use the styles in `docs/DESIGN`, not the live sites.** The brands have been restyled. Use the live sites only for
+  structure, copy, photomontages and product images.
+- **Write access:** on 2026-11-06 the connected Figma account (mamolinarialessandro@gmail.com) had **view-only**
+  access to this file, and every `use_figma` write failed with "read-only mode".
 
 - **No components, variables or styles.** All three pages have 0 components, 0 instances, 0 local
   paint/text/effect styles and 0 variable collections. Every element is a plain frame, text node,
