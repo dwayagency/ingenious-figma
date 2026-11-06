@@ -1,0 +1,1859 @@
+<canvas id="1:2" name="MISTERCUCINA" x="0" y="0" width="0" height="0">
+  <frame id="1:1443" name="1920w light" x="2113" y="0" width="1920" height="11473.9404296875">
+    <frame id="1:1444" name="Container" x="0" y="0" width="1920" height="11473.9404296875">
+      <frame id="1:1445" name="Main" x="0" y="180" width="1920" height="10704.9404296875">
+        <frame id="1:1446" name="Background" x="0" y="0" width="1920" height="593.530029296875">
+          <frame id="1:1447" name="Link - Relic Relaxed" x="135" y="40" width="821" height="553.530029296875">
+            <rounded-rectangle id="1:1448" name="Mask" x="0" y="0" width="821" height="553.530029296875" />
+            <frame id="1:1449" name="Container" x="0" y="0" width="821" height="553.530029296875">
+              <frame id="1:1450" name="motion-element → Picture" x="0" y="0" width="821" height="553.530029296875">
+                <frame id="1:1451" name="Back of a man in a maroon hoodie with a Katin Classics sunset graphic" x="0" y="0" width="821" height="553.530029296875" />
+                <rounded-rectangle id="1:1452" name="Background" x="0" y="0" width="821" height="553.530029296875" />
+              </frame>
+              <text id="1:1453" name="motion-element → holiday ‘25 collection" x="32" y="345.6300048828125" width="192.4092559814453" height="19" />
+              <text id="1:1454" name="motion-element → Relic Relaxed" x="32" y="384.5299987792969" width="320.4346618652344" height="65" />
+              <frame id="1:1455" name="motion-element → Button" x="32" y="473.5299987792969" width="180.8000030517578" height="48">
+                <frame id="1:1456" name="Container" x="33" y="9" width="114.80000305175781" height="30">
+                  <text id="1:1457" name="Shop Collection" x="0" y="6" width="115.17781066894531" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1458" name="Link - Vintage Hats" x="964" y="40" width="406.5" height="553.530029296875">
+            <rounded-rectangle id="1:1459" name="Mask" x="0" y="0" width="406.5" height="553.530029296875" />
+            <frame id="1:1460" name="Container" x="0" y="0" width="406.5" height="553.530029296875">
+              <frame id="1:1461" name="motion-element → Picture" x="0" y="0" width="406.5" height="553.530029296875">
+                <frame id="1:1462" name="Bearded man adjusting a coral cap with a sun logo, wearing a teal tee" x="0" y="0" width="406.5" height="553.530029296875" />
+                <rounded-rectangle id="1:1463" name="Background" x="0" y="0" width="406.5" height="553.530029296875" />
+              </frame>
+              <text id="1:1464" name="motion-element → new arrivals" x="144.41000366210938" y="34" width="118.05229949951172" height="19" />
+              <text id="1:1465" name="motion-element → Vintage Hats" x="106.13999938964844" y="72.91000366210938" width="194.55093383789062" height="42" />
+              <frame id="1:1466" name="motion-element → Button" x="132.77000427246094" y="138.91000366210938" width="140.9499969482422" height="48">
+                <frame id="1:1467" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                  <text id="1:1468" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1469" name="Link - Saving 40% Surfing" x="1378.5" y="40" width="406.5" height="272.3399963378906">
+            <rounded-rectangle id="1:1470" name="Mask" x="0" y="0" width="406.5" height="272.3399963378906" />
+            <frame id="1:1471" name="Container" x="0" y="0" width="406.5" height="272.3399963378906">
+              <frame id="1:1472" name="motion-element → Picture → Bearded man in a red ribbed beanie and cream knit sweater" x="0" y="0" width="406.5" height="272.3399963378906" />
+              <text id="1:1473" name="motion-element → Saving 40%
+Surfing" x="24" y="27" width="126.76000213623047" height="58" />
+              <text id="1:1474" name="motion-element → Starting at $100" x="24" y="100" width="113.8257064819336" height="24" />
+              <frame id="1:1475" name="motion-element → Button" x="24" y="210.33999633789062" width="79.88999938964844" height="38">
+                <frame id="1:1476" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                  <text id="1:1477" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1478" name="Link - Holiday Seasonal Socks" x="1378.5" y="320.3399963378906" width="406.5" height="273.19000244140625">
+            <rounded-rectangle id="1:1479" name="Mask" x="0" y="0" width="406.5" height="273.19000244140625" />
+            <frame id="1:1480" name="Container" x="0" y="0" width="406.5" height="273.19000244140625">
+              <frame id="1:1481" name="motion-element → Picture → Pair of yellow crew socks with an embroidered palm tree" x="0" y="0" width="406.5" height="273.19000244140625" />
+              <text id="1:1482" name="motion-element → Holiday
+Seasonal Socks" x="24" y="27" width="167.25999450683594" height="58" />
+              <text id="1:1483" name="motion-element → Starting at $20" x="24" y="100" width="107.7762680053711" height="24" />
+              <frame id="1:1484" name="motion-element → Button" x="24" y="211.19000244140625" width="79.88999938964844" height="38">
+                <frame id="1:1485" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                  <text id="1:1486" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:1487" name="Background" x="0" y="593.530029296875" width="1920" height="8" />
+        <frame id="1:1488" name="Section" x="0" y="601.530029296875" width="1920" height="276.8599853515625">
+          <frame id="1:1489" name="Mask Group" x="135" y="0" width="228.83999633789062" height="276.8599853515625">
+            <rounded-rectangle id="1:1490" name="Mask" x="0" y="0" width="228.83999633789062" height="276.8599853515625" />
+            <frame id="1:1491" name="Background+Border" x="0" y="0" width="228.83999633789062" height="276.8599853515625">
+              <frame id="1:1492" name="Link" x="1" y="1" width="226.83999633789062" height="272.2799987792969">
+                <frame id="1:1493" name="Mask Group" x="16" y="16" width="194.83999633789062" height="192.27999877929688">
+                  <rounded-rectangle id="1:1494" name="Mask" x="0" y="0" width="194.83999633789062" height="192.27999877929688" />
+                  <frame id="1:1495" name="Container" x="0" y="0" width="194.83999633789062" height="192.27999877929688">
+                    <frame id="1:1496" name="motion-element → Brown corduroy trucker jacket with a cream sherpa collar" x="0" y="0" width="194.83999633789062" height="192.27999877929688" />
+                  </frame>
+                </frame>
+                <frame id="1:1497" name="Heading 3" x="16" y="228.10000610351562" width="154.83999633789062" height="24.3799991607666">
+                  <text id="1:1498" name="Jackets" x="0" y="3" width="54.61640548706055" height="18" />
+                </frame>
+                <frame id="1:1499" name="Button - Jackets" x="178.83999633789062" y="224.27999877929688" width="32" height="32">
+                  <frame id="1:1500" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1502" name="Mask Group" x="371.8399963378906" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1503" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1504" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1505" name="Link" x="1" y="1" width="226.86000061035156" height="274.20001220703125">
+                <frame id="1:1506" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.1999969482422">
+                  <rounded-rectangle id="1:1507" name="Mask" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  <frame id="1:1508" name="Container" x="0" y="0" width="194.86000061035156" height="194.1999969482422">
+                    <frame id="1:1509" name="motion-element → Light blue crew socks with an embroidered sun motif" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  </frame>
+                </frame>
+                <frame id="1:1510" name="Heading 3" x="16" y="230.02000427246094" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1511" name="Socks" x="0" y="3" width="44.72559356689453" height="18" />
+                </frame>
+                <frame id="1:1512" name="Button - Socks" x="178.86000061035156" y="226.1999969482422" width="32" height="32">
+                  <frame id="1:1513" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1515" name="Mask Group" x="608.7000122070312" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1516" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1517" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1518" name="Link" x="1" y="1" width="226.86000061035156" height="274.8599853515625">
+                <frame id="1:1519" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.86000061035156">
+                  <rounded-rectangle id="1:1520" name="Mask" x="0" y="0" width="194.86000061035156" height="194.86000061035156" />
+                  <frame id="1:1521" name="Container" x="0" y="0" width="194.86000061035156" height="194.86000061035156">
+                    <frame id="1:1522" name="motion-element → Rust orange five-panel cap with a white woven label" x="0" y="0" width="194.86000061035156" height="194.86000061035156" />
+                  </frame>
+                </frame>
+                <frame id="1:1523" name="Heading 3" x="16" y="230.6699981689453" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1524" name="Hats" x="0" y="3" width="33.992156982421875" height="18" />
+                </frame>
+                <frame id="1:1525" name="Button - Hats" x="178.86000061035156" y="226.86000061035156" width="32" height="32">
+                  <frame id="1:1526" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1528" name="Mask Group" x="845.5599975585938" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1529" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1530" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1531" name="Link" x="1" y="1" width="226.86000061035156" height="274.20001220703125">
+                <frame id="1:1532" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.1999969482422">
+                  <rounded-rectangle id="1:1533" name="Mask" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  <frame id="1:1534" name="Container" x="0" y="0" width="194.86000061035156" height="194.1999969482422">
+                    <frame id="1:1535" name="motion-element → Olive green quilted vest with a sherpa collar and corduroy yoke" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  </frame>
+                </frame>
+                <frame id="1:1536" name="Heading 3" x="16" y="230.02000427246094" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1537" name="Hoodies" x="0" y="3" width="60.11353302001953" height="18" />
+                </frame>
+                <frame id="1:1538" name="Button - Hoodies" x="178.86000061035156" y="226.1999969482422" width="32" height="32">
+                  <frame id="1:1539" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1541" name="Mask Group" x="1082.4200439453125" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1542" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1543" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1544" name="Link" x="1" y="1" width="226.86000061035156" height="274.8599853515625">
+                <frame id="1:1545" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.86000061035156">
+                  <rounded-rectangle id="1:1546" name="Mask" x="0" y="0" width="194.86000061035156" height="194.86000061035156" />
+                  <frame id="1:1547" name="Container" x="0" y="0" width="194.86000061035156" height="194.86000061035156">
+                    <frame id="1:1548" name="motion-element → Beige waffle-knit crewneck sweater" x="0" y="0" width="194.86000061035156" height="194.86000061035156" />
+                  </frame>
+                </frame>
+                <frame id="1:1549" name="Heading 3" x="16" y="230.6699981689453" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1550" name="Sweaters" x="0" y="3" width="69.68684387207031" height="18" />
+                </frame>
+                <frame id="1:1551" name="Button - Sweaters" x="178.86000061035156" y="226.86000061035156" width="32" height="32">
+                  <frame id="1:1552" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1554" name="Mask Group" x="1319.280029296875" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1555" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1556" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1557" name="Link" x="1" y="1" width="226.86000061035156" height="274.20001220703125">
+                <frame id="1:1558" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.1999969482422">
+                  <rounded-rectangle id="1:1559" name="Mask" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  <frame id="1:1560" name="Container" x="0" y="0" width="194.86000061035156" height="194.1999969482422">
+                    <frame id="1:1561" name="motion-element → Rust orange quilted down shirt jacket with flap pockets" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  </frame>
+                </frame>
+                <frame id="1:1562" name="Heading 3" x="16" y="230.02000427246094" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1563" name="Puffers" x="0" y="3" width="54.88725280761719" height="18" />
+                </frame>
+                <frame id="1:1564" name="Button - Puffers" x="178.86000061035156" y="226.1999969482422" width="32" height="32">
+                  <frame id="1:1565" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1567" name="Mask Group" x="1556.1400146484375" y="0" width="228.86000061035156" height="276.8599853515625">
+            <rounded-rectangle id="1:1568" name="Mask" x="0" y="0" width="228.86000061035156" height="276.8599853515625" />
+            <frame id="1:1569" name="Background+Border" x="0" y="0" width="228.86000061035156" height="276.8599853515625">
+              <frame id="1:1570" name="Link" x="1" y="1" width="226.86000061035156" height="274.20001220703125">
+                <frame id="1:1571" name="Mask Group" x="16" y="16" width="194.86000061035156" height="194.1999969482422">
+                  <rounded-rectangle id="1:1572" name="Mask" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  <frame id="1:1573" name="Container" x="0" y="0" width="194.86000061035156" height="194.1999969482422">
+                    <frame id="1:1574" name="motion-element → Blue swim shorts with a black floral print" x="0" y="0" width="194.86000061035156" height="194.1999969482422" />
+                  </frame>
+                </frame>
+                <frame id="1:1575" name="Heading 3" x="16" y="230.02000427246094" width="154.86000061035156" height="24.3799991607666">
+                  <text id="1:1576" name="Shorts" x="0" y="3" width="49.580718994140625" height="18" />
+                </frame>
+                <frame id="1:1577" name="Button - Shorts" x="178.86000061035156" y="226.1999969482422" width="32" height="32">
+                  <frame id="1:1578" name="SVG" x="9" y="9" width="14" height="14" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1580" name="Mask Group" x="135" y="918.3900146484375" width="1650" height="149">
+          <rounded-rectangle id="1:1581" name="Mask" x="0" y="0" width="1650" height="149" />
+          <frame id="1:1582" name="Background" x="0" y="0" width="1650" height="149">
+            <text id="1:1583" name="motion-element → The Last Chance" x="50" y="64.05000305175781" width="142.79052734375" height="19" />
+            <frame id="1:1584" name="motion-element → countdown-timer" x="414.7300109863281" y="63" width="302" height="40">
+              <text id="1:1585" name="24" x="1.899999976158142" y="0" width="48.04594039916992" height="40" />
+              <text id="1:1586" name=":" x="65.06999969482422" y="10" width="5.23199987411499" height="20" />
+              <text id="1:1587" name="15" x="90.80000305175781" y="0" width="37.20215606689453" height="40" />
+              <text id="1:1588" name=":" x="148.57000732421875" y="10" width="5.23199987411499" height="20" />
+              <text id="1:1589" name="08" x="167.11000061035156" y="0" width="51.637123107910156" height="40" />
+              <text id="1:1590" name=":" x="232.07000732421875" y="10" width="5.23199987411499" height="20" />
+              <text id="1:1591" name="13" x="257.8299865722656" y="0" width="37.152000427246094" height="40" />
+            </frame>
+            <text id="1:1592" name="motion-element → Save on trendy clothing, best
+sellers + more" x="938.969970703125" y="53.5" width="207.82000732421875" height="42" />
+            <frame id="1:1593" name="motion-element → Button" x="1381.219970703125" y="50.5" width="218.77999877929688" height="48">
+              <frame id="1:1594" name="Container" x="33" y="9" width="152.77999877929688" height="30">
+                <text id="1:1595" name="Copy Code: FLASH30" x="0" y="6" width="153.09857177734375" height="18" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1596" name="Background" x="0" y="1067.3900146484375" width="1920" height="1287">
+          <text id="1:1597" name="Heading 2 → motion-element → The Winter Lineup" x="135" y="40" width="275.1669616699219" height="42" />
+          <frame id="1:1598" name="motion-element → Tablist" x="968" y="56" width="817" height="26">
+            <frame id="1:1599" name="Tab" x="502.0799865722656" y="0" width="93.63999938964844" height="26">
+              <text id="1:1600" name="New Arrivals" x="0" y="3" width="93.98474884033203" height="18" />
+              <rounded-rectangle id="1:1601" name="Horizontal Divider" x="0" y="25" width="93.63999938964844" height="1" />
+            </frame>
+            <text id="1:1602" name="Tab → Hot Items" x="627.719970703125" y="3" width="70.9788589477539" height="18" />
+            <text id="1:1603" name="Tab → Best Sellers" x="730.3900146484375" y="3" width="86.94376373291016" height="18" />
+          </frame>
+          <frame id="1:1604" name="featured-collection" x="135" y="114" width="1650" height="1113">
+            <rounded-rectangle id="1:1605" name="storefront-view-event" x="0" y="0" width="306" height="540.5" />
+            <frame id="1:1606" name="Container" x="0" y="0" width="306" height="408">
+              <frame id="1:1607" name="Link → motion-element → Haven Hooded Puffer" x="0" y="0" width="306" height="408" />
+              <frame id="1:1608" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1609" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1610" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1611" name="Link - Type:Hoodies → Hoodies" x="0" y="431" width="53.70356369018555" height="14" />
+            <text id="1:1612" name="Heading 3 → Link → Haven Hooded Puffer" x="0" y="455" width="156.46119689941406" height="18" />
+            <text id="1:1613" name="$100.00" x="0" y="482" width="56.57250213623047" height="18" />
+            <rounded-rectangle id="1:1614" name="List → Item → Link - Haven Hooded Puffer - Green" x="0" y="514.5" width="20" height="20" />
+            <rounded-rectangle id="1:1615" name="storefront-view-event" x="336" y="0" width="306" height="540.5" />
+            <frame id="1:1616" name="Container" x="336" y="0" width="306" height="408">
+              <frame id="1:1617" name="Link → motion-element → Leo 84 Classic" x="0" y="0" width="306" height="408" />
+              <frame id="1:1618" name="Background+Border" x="10" y="10" width="44.70000076293945" height="24">
+                <text id="1:1619" name="New" x="9" y="5" width="27.060625076293945" height="14" />
+              </frame>
+              <frame id="1:1620" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1621" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1622" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1623" name="Link - Type:Pants → Pants" x="336" y="431" width="39.960750579833984" height="14" />
+            <text id="1:1624" name="Heading 3 → Link → Leo 84 Classic" x="336" y="455" width="104.17063903808594" height="18" />
+            <text id="1:1625" name="$130.00" x="336" y="482" width="55.61953353881836" height="18" />
+            <frame id="1:1626" name="List" x="336" y="514.5" width="306" height="26">
+              <rounded-rectangle id="1:1627" name="Item → Link - Leo 84 Classic - Dusty Blue" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1628" name="Item → Link - Leo 84 Classic - Pale Sky" x="28" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1629" name="Item → Link - Leo 84 Classic - Twilight Blue" x="56" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1630" name="storefront-view-event" x="672" y="0" width="306" height="540.5" />
+            <frame id="1:1631" name="Container" x="672" y="0" width="306" height="408">
+              <frame id="1:1632" name="Link → motion-element → Timber Flannel" x="0" y="0" width="306" height="408" />
+              <frame id="1:1633" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1634" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1635" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1636" name="Link - Type:Flannel → Flannel" x="672" y="431" width="54.526126861572266" height="14" />
+            <text id="1:1637" name="Heading 3 → Link → Timber Flannel" x="672" y="455" width="108.91804504394531" height="18" />
+            <text id="1:1638" name="$100.00" x="672" y="482" width="56.57250213623047" height="18" />
+            <frame id="1:1639" name="List" x="672" y="514.5" width="306" height="26">
+              <rounded-rectangle id="1:1640" name="Item → Link - Timber Flannel - Bronze" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1641" name="Item → Link - Timber Flannel - Beige" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1642" name="storefront-view-event" x="1008" y="0" width="306" height="540.5" />
+            <frame id="1:1643" name="Container" x="1008" y="0" width="306" height="408">
+              <frame id="1:1644" name="Link → motion-element → Comfy Pant" x="0" y="0" width="306" height="408" />
+              <frame id="1:1645" name="Background+Border" x="10" y="10" width="44.70000076293945" height="24">
+                <text id="1:1646" name="New" x="9" y="5" width="27.060625076293945" height="14" />
+              </frame>
+              <frame id="1:1647" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1648" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1649" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1650" name="Link - Type:Pants → Pants" x="1008" y="431" width="39.960750579833984" height="14" />
+            <text id="1:1651" name="Heading 3 → Link → Comfy Pant" x="1008" y="455" width="85.92217254638672" height="18" />
+            <text id="1:1652" name="$120.00" x="1008" y="482" width="55.31859588623047" height="18" />
+            <frame id="1:1653" name="List" x="1008" y="514.5" width="306" height="26">
+              <rounded-rectangle id="1:1654" name="Item → Link - Comfy Pant - Gray" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1655" name="Item → Link - Comfy Pant - Almond Beige" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1656" name="storefront-view-event" x="1344" y="0" width="306" height="540.5" />
+            <frame id="1:1657" name="Container" x="1344" y="0" width="306" height="408">
+              <frame id="1:1658" name="Link → motion-element → Seafarer Sweater" x="0" y="0" width="306" height="408" />
+              <frame id="1:1659" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1660" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1661" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1662" name="Link - Type:Sweaters → Sweaters" x="1344" y="431" width="65.44021606445312" height="14" />
+            <text id="1:1663" name="Heading 3 → Link → Seafarer Sweater" x="1344" y="455" width="128.7389678955078" height="18" />
+            <text id="1:1664" name="$100.00" x="1344" y="482" width="56.57250213623047" height="18" />
+            <frame id="1:1665" name="List" x="1344" y="514.5" width="306" height="26">
+              <rounded-rectangle id="1:1666" name="Item → Link - Seafarer Sweater - Slate Blue" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1667" name="Item → Link - Seafarer Sweater - Beige" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1668" name="storefront-view-event" x="0" y="570.5" width="306" height="540.5" />
+            <frame id="1:1669" name="Container" x="0" y="570.5" width="306" height="408">
+              <frame id="1:1670" name="Link → motion-element → Breezy Sock" x="0" y="0" width="306" height="408" />
+              <frame id="1:1671" name="Background+Border" x="10" y="10" width="91.11000061035156" height="24">
+                <text id="1:1672" name="Best Choice!" x="9" y="5" width="73.42266845703125" height="14" />
+              </frame>
+              <frame id="1:1673" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1674" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1675" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1676" name="Link - Type:Sooks → Sooks" x="0" y="1001.5" width="41.59584426879883" height="14" />
+            <text id="1:1677" name="Heading 3 → Link → Breezy Sock" x="0" y="1025.5" width="91.03014373779297" height="18" />
+            <text id="1:1678" name="$100.00" x="0" y="1052.5" width="56.57250213623047" height="18" />
+            <frame id="1:1679" name="List" x="0" y="1085" width="306" height="26">
+              <rounded-rectangle id="1:1680" name="Item → Link - Breezy Sock - Pale Sky" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1681" name="Item → Link - Breezy Sock - White" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1682" name="storefront-view-event" x="336" y="570.5" width="306" height="540.5" />
+            <frame id="1:1683" name="Container" x="336" y="570.5" width="306" height="408">
+              <frame id="1:1684" name="Link → motion-element → Sage Knit Hoodie" x="0" y="0" width="306" height="408" />
+              <frame id="1:1685" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1686" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1687" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1688" name="Link - Type:Hoodies → Hoodies" x="336" y="1001.5" width="53.70356369018555" height="14" />
+            <text id="1:1689" name="Heading 3 → Link → Sage Knit Hoodie" x="336" y="1025.5" width="124.642578125" height="18" />
+            <text id="1:1690" name="$350.00" x="336" y="1052.5" width="59.86275100708008" height="18" />
+            <frame id="1:1691" name="List" x="336" y="1085" width="306" height="26">
+              <rounded-rectangle id="1:1692" name="Item → Link - Sage Knit Hoodie - Beige" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1693" name="Item → Link - Sage Knit Hoodie - Pale Sky" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1694" name="storefront-view-event" x="672" y="570.5" width="306" height="542" />
+            <frame id="1:1695" name="Container" x="672" y="570.5" width="306" height="408">
+              <frame id="1:1696" name="Link → motion-element → Seasonal Hat" x="0" y="0" width="306" height="408" />
+              <frame id="1:1697" name="Background+Border" x="10" y="10" width="43.20000076293945" height="24">
+                <text id="1:1698" name="Sale" x="9" y="5" width="25.551250457763672" height="14" />
+              </frame>
+              <frame id="1:1699" name="Background+Border" x="10" y="40" width="44.70000076293945" height="24">
+                <text id="1:1700" name="New" x="9" y="5" width="27.060625076293945" height="14" />
+              </frame>
+              <frame id="1:1701" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1702" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1703" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1704" name="Link - Type:Hats → Hats" x="672" y="1001.5" width="31.387500762939453" height="14" />
+            <text id="1:1705" name="Heading 3 → Link → Seasonal Hat" x="672" y="1025.5" width="96.2983627319336" height="18" />
+            <text id="1:1706" name="$200.00" x="672" y="1051.25" width="60.414466857910156" height="22.5" />
+            <text id="1:1707" name="Strikethrough → $245.00" x="740.030029296875" y="1053.5" width="58.84959030151367" height="18" />
+            <frame id="1:1708" name="List" x="672" y="1086.5" width="306" height="26">
+              <rounded-rectangle id="1:1709" name="Item → Link - Seasonal Hat - Olive Stone" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1710" name="Item → Link - Seasonal Hat - Beige" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1711" name="storefront-view-event" x="1008" y="570.5" width="306" height="542" />
+            <frame id="1:1712" name="Container" x="1008" y="570.5" width="306" height="408">
+              <frame id="1:1713" name="Link → motion-element → Ridge Hoodie" x="0" y="0" width="306" height="408" />
+              <frame id="1:1714" name="Background+Border" x="10" y="10" width="43.20000076293945" height="24">
+                <text id="1:1715" name="Sale" x="9" y="5" width="25.551250457763672" height="14" />
+              </frame>
+              <frame id="1:1716" name="Mask Group" x="10" y="360" width="286" height="38">
+                <rounded-rectangle id="1:1717" name="Mask" x="0" y="0" width="286" height="38" />
+                <frame id="1:1718" name="Background" x="0" y="0" width="286" height="38">
+                  <frame id="1:1719" name="scrolling-promotion" x="0" y="0" width="286" height="38">
+                    <frame id="1:1720" name="SVG" x="4" y="12" width="14" height="14" />
+                    <text id="1:1722" name="Selling Fast" x="26" y="9" width="67.82393646240234" height="20" />
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1723" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1724" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1725" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1726" name="Link - Type:Hoodies → Hoodies" x="1008" y="1001.5" width="53.70356369018555" height="14" />
+            <text id="1:1727" name="Heading 3 → Link → Ridge Hoodie" x="1008" y="1025.5" width="96.68897247314453" height="18" />
+            <text id="1:1728" name="$300.00" x="1008" y="1051.25" width="60.695343017578125" height="22.5" />
+            <text id="1:1729" name="Strikethrough → $345.00" x="1076.31005859375" y="1053.5" width="59.47153091430664" height="18" />
+            <frame id="1:1730" name="List" x="1008" y="1086.5" width="306" height="26">
+              <rounded-rectangle id="1:1731" name="Item → Link - Ridge Hoodie - Pale Sky" x="0" y="0" width="20" height="20" />
+              <rounded-rectangle id="1:1732" name="Item → Link - Ridge Hoodie - Beige" x="28" y="0" width="20" height="20" />
+            </frame>
+            <rounded-rectangle id="1:1733" name="storefront-view-event" x="1344" y="570.5" width="306" height="542.5" />
+            <frame id="1:1734" name="Container" x="1344" y="570.5" width="306" height="408">
+              <frame id="1:1735" name="Link → motion-element → Mason Corduroy Pant" x="0" y="0" width="306" height="408" />
+              <frame id="1:1736" name="Button dialog" x="20" y="355" width="266" height="48">
+                <frame id="1:1737" name="Container" x="75.22000122070312" y="9" width="115.55999755859375" height="30">
+                  <text id="1:1738" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:1739" name="Link - Type:Pants → Pants" x="1344" y="1001.5" width="39.960750579833984" height="14" />
+            <text id="1:1740" name="Heading 3 → Link → Mason Corduroy Pant" x="1344" y="1025.5" width="159.7137451171875" height="18" />
+            <text id="1:1741" name="$120.00" x="1344" y="1052.5" width="55.31859588623047" height="18" />
+            <frame id="1:1742" name="List" x="1344" y="1085" width="306" height="28">
+              <text id="1:1743" name="Item → Link → +1" x="112" y="3" width="9.937874794006348" height="14" />
+              <rounded-rectangle id="1:1744" name="Item → Link - Mason Corduroy Pant - Beige" x="0" y="1" width="20" height="20" />
+              <rounded-rectangle id="1:1745" name="Item → Link - Mason Corduroy Pant - Brown" x="28" y="1" width="20" height="20" />
+              <rounded-rectangle id="1:1746" name="Item → Link - Mason Corduroy Pant - Almond Beige" x="56" y="1" width="20" height="20" />
+              <rounded-rectangle id="1:1747" name="Item → Link - Mason Corduroy Pant - Blush Sand" x="84" y="1" width="20" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1748" name="Section" x="0" y="2354.389892578125" width="1920" height="892.77001953125">
+          <rounded-rectangle id="1:1749" name="Horizontal Divider" x="0" y="0" width="1920" height="1" />
+          <frame id="1:1750" name="Background" x="0" y="1" width="1920" height="891.77001953125">
+            <text id="1:1751" name="motion-element → Effortless Elegance" x="867.4199829101562" y="62" width="185.50387573242188" height="19" />
+            <frame id="1:1752" name="Heading 2 → motion-element" x="550" y="96.91000366210938" width="820" height="96">
+              <text id="1:1753" name="Explore our collection of" x="49.20000076293945" y="0" width="469.26275634765625" height="48" />
+              <frame id="1:1754" name="Emphasis" x="518.0800170898438" y="0" width="252.6999969482422" height="48">
+                <text id="1:1755" name="shoes &amp; bags" x="0" y="0" width="253.0966339111328" height="48" />
+              </frame>
+              <text id="1:1756" name="from chic" x="166.1699981689453" y="48" width="189.7271728515625" height="48" />
+              <frame id="1:1757" name="Emphasis" x="355.54998779296875" y="48" width="108.80000305175781" height="48">
+                <text id="1:1758" name="boots" x="0" y="0" width="109.1684341430664" height="48" />
+              </frame>
+              <text id="1:1759" name="to loafers" x="464.3399963378906" y="48" width="189.81724548339844" height="48" />
+            </frame>
+            <frame id="1:1760" name="image-cards" x="135" y="224.91000366210938" width="1650" height="534.8599853515625">
+              <frame id="1:1761" name="Group - 1 / 6 → Link - Chino Pant" x="0" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1762" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1763" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1764" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625">
+                    <frame id="1:1765" name="Man in khaki chino pants, a white tee and black canvas sneakers" x="0" y="0" width="406.5" height="534.8599853515625" />
+                    <rounded-rectangle id="1:1766" name="Background" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  </frame>
+                  <frame id="1:1767" name="motion-element" x="24" y="24" width="120.19000244140625" height="32.90999984741211">
+                    <rounded-rectangle id="1:1768" name="Overlay+Shadow" x="0" y="0" width="120.19000244140625" height="32.90999984741211" />
+                    <text id="1:1769" name="chino pant" x="12" y="6" width="96.53873443603516" height="19" />
+                  </frame>
+                  <text id="1:1770" name="motion-element → Chino Pant" x="24" y="400.8599853515625" width="146.1731719970703" height="38" />
+                  <frame id="1:1771" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1772" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                      <text id="1:1773" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1774" name="Group - 2 / 6 → Link - Retro Sweaters" x="414.5" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1775" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1776" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1777" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625">
+                    <frame id="1:1778" name="Woman in a sage green ribbed-knit sweater and black beanie carrying a surfboard" x="0" y="0" width="406.5" height="534.8599853515625" />
+                    <rounded-rectangle id="1:1779" name="Background" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  </frame>
+                  <frame id="1:1780" name="motion-element" x="24" y="24" width="109.80999755859375" height="32.90999984741211">
+                    <rounded-rectangle id="1:1781" name="Overlay+Shadow" x="0" y="0" width="109.80999755859375" height="32.90999984741211" />
+                    <text id="1:1782" name="sweaters" x="12" y="6" width="86.14251708984375" height="19" />
+                  </frame>
+                  <text id="1:1783" name="motion-element → Retro Sweaters" x="24" y="400.8599853515625" width="208.2216033935547" height="38" />
+                  <frame id="1:1784" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1785" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                      <text id="1:1786" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1787" name="Group - 3 / 6 → Link - Cotton Made" x="829" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1788" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1789" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1790" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625">
+                    <frame id="1:1791" name="Man in a rust-orange quilted puffer shirt jacket over a white tee" x="0" y="0" width="406.5" height="534.8599853515625" />
+                    <rounded-rectangle id="1:1792" name="Background" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  </frame>
+                  <frame id="1:1793" name="motion-element" x="24" y="24" width="95.5" height="32.90999984741211">
+                    <rounded-rectangle id="1:1794" name="Overlay+Shadow" x="0" y="0" width="95.5" height="32.90999984741211" />
+                    <text id="1:1795" name="Puffers" x="12" y="6" width="71.81015014648438" height="19" />
+                  </frame>
+                  <text id="1:1796" name="motion-element → Cotton Made" x="24" y="400.8599853515625" width="173.75469970703125" height="38" />
+                  <frame id="1:1797" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1798" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                      <text id="1:1799" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1800" name="Group - 4 / 6 → Link - Casual Shorts" x="1243.5" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1801" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1802" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1803" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625">
+                    <frame id="1:1804" name="Man holding a wooden paddle in blue floral board shorts and a grey long-sleeve tee" x="0" y="0" width="406.5" height="534.8599853515625" />
+                    <rounded-rectangle id="1:1805" name="Background" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  </frame>
+                  <frame id="1:1806" name="motion-element" x="24" y="24" width="87.33000183105469" height="32.90999984741211">
+                    <rounded-rectangle id="1:1807" name="Overlay+Shadow" x="0" y="0" width="87.33000183105469" height="32.90999984741211" />
+                    <text id="1:1808" name="shorts" x="12" y="6" width="63.72478103637695" height="19" />
+                  </frame>
+                  <text id="1:1809" name="motion-element → Casual Shorts" x="24" y="400.8599853515625" width="187.845703125" height="38" />
+                  <frame id="1:1810" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1811" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                      <text id="1:1812" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1813" name="Group - 5 / 6 → Link - Made Cotton" x="1658" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1814" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1815" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1816" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625">
+                    <frame id="1:1817" name="Man walking up a coastal trail in a blue plaid sherpa-lined shirt jacket and grey cords" x="0" y="0" width="406.5" height="534.8599853515625" />
+                    <rounded-rectangle id="1:1818" name="Background" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  </frame>
+                  <frame id="1:1819" name="motion-element" x="24" y="24" width="95.33999633789062" height="32.90999984741211">
+                    <rounded-rectangle id="1:1820" name="Overlay+Shadow" x="0" y="0" width="95.33999633789062" height="32.90999984741211" />
+                    <text id="1:1821" name="Flannel" x="12" y="6" width="71.64990997314453" height="19" />
+                  </frame>
+                  <text id="1:1822" name="motion-element → Made Cotton" x="24" y="400.8599853515625" width="173.75469970703125" height="38" />
+                  <frame id="1:1823" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1824" name="Container" x="33" y="9" width="74.94999694824219" height="30">
+                      <text id="1:1825" name="Shop Now" x="0" y="6" width="75.26554870605469" height="18" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:1826" name="Group - 6 / 6 → Link - Souvenir Tee" x="2072.5" y="0" width="406.5" height="534.8599853515625">
+                <rounded-rectangle id="1:1827" name="Mask" x="0" y="0" width="406.5" height="534.8599853515625" />
+                <frame id="1:1828" name="Container" x="0" y="0" width="406.5" height="534.8599853515625">
+                  <frame id="1:1829" name="motion-element → Picture" x="0" y="0" width="406.5" height="534.8599853515625" />
+                  <text id="1:1830" name="motion-element → Tees" x="36" y="30" width="39.3689079284668" height="19" />
+                  <text id="1:1831" name="motion-element → Souvenir Tee" x="24" y="400.8599853515625" width="172.6038055419922" height="38" />
+                  <frame id="1:1832" name="motion-element → Button" x="24" y="462.8599853515625" width="140.9499969482422" height="48">
+                    <frame id="1:1833" name="Container" x="33" y="9" width="74.94999694824219" height="30" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1834" name="Button - Previous slide" x="1677" y="783.77001953125" width="48" height="48">
+              <frame id="1:1835" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+            <frame id="1:1837" name="Button - Next slide" x="1737" y="783.77001953125" width="48" height="48">
+              <frame id="1:1838" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+            <frame id="1:1840" name="Horizontal Divider" x="135" y="806.77001953125" width="1514" height="2">
+              <rounded-rectangle id="1:1841" name="Horizontal Divider" x="0" y="0" width="504.6700134277344" height="2" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1842" name="Section" x="0" y="3247.159912109375" width="1920" height="252.5">
+          <text id="1:1843" name="Heading 2 → motion-element → Today Quality, Durability &amp;
+Good Looks" x="135" y="85.25" width="401.3699951171875" height="81" />
+          <frame id="1:1844" name="multicolumn-icon" x="632.1400146484375" y="50" width="1152.8599853515625" height="152.5">
+            <frame id="1:1845" name="Background" x="0" y="0" width="364.2799987792969" height="152.5">
+              <frame id="1:1846" name="motion-element → Picture → Organic Cotton" x="162.13999938964844" y="0" width="40" height="40.5" />
+              <text id="1:1847" name="Heading 3 → Organic Cotton" x="101.83999633789062" y="60.5" width="160.9146728515625" height="32" />
+              <text id="1:1848" name="Currently, 82% feature organic or recycled materials" x="30.190000534057617" y="107.5" width="304.1000061035156" height="42" />
+            </frame>
+            <frame id="1:1849" name="Background" x="394.2799987792969" y="0" width="364.2799987792969" height="152.5">
+              <frame id="1:1850" name="motion-element → Picture → Life Cycle" x="162.13999938964844" y="0" width="40" height="40.5" />
+              <text id="1:1851" name="Heading 3 → Life Cycle" x="130.99000549316406" y="60.5" width="102.65827941894531" height="32" />
+              <text id="1:1852" name="Our Repairs Program revives beloved products, keeping them in action." x="14.520000457763672" y="107.5" width="335.42999267578125" height="42" />
+            </frame>
+            <frame id="1:1853" name="Background" x="788.5599975585938" y="0" width="364.29998779296875" height="152.5">
+              <frame id="1:1854" name="motion-element → Picture → Recycle Bags" x="162.13999938964844" y="0" width="40" height="40.5" />
+              <text id="1:1855" name="Heading 3 → Recycle Bags" x="111.36000061035156" y="60.5" width="141.86981201171875" height="32" />
+              <text id="1:1856" name="Orders ship in compostable poly mailers and recycled corrugate" x="23.06999969482422" y="107.5" width="318.3500061035156" height="42" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1857" name="Background" x="0" y="3499.659912109375" width="1920" height="630">
+          <frame id="1:1858" name="favorite-products" x="0" y="0" width="2726.389892578125" height="630">
+            <frame id="1:1859" name="Container" x="0" y="0" width="960" height="630">
+              <frame id="1:1860" name="Group - 1 / 3" x="0" y="0" width="960" height="630">
+                <frame id="1:1861" name="motion-element → Picture → Rocky headland on a misty coast above a beach, with dune grass in the foreground" x="0" y="0" width="960" height="630" />
+                <frame id="1:1862" name="Background" x="355" y="87.41999816894531" width="250" height="455.1600036621094">
+                  <frame id="1:1863" name="Container" x="16" y="16" width="218" height="290.6600036621094">
+                    <frame id="1:1864" name="Link - Lunara Flannel → motion-element → Lunara Flannel" x="0" y="0" width="218" height="290.6600036621094" />
+                    <frame id="1:1865" name="Button dialog" x="20" y="237.64999389648438" width="178" height="48">
+                      <frame id="1:1866" name="Container" x="31.219999313354492" y="9" width="115.55999755859375" height="30">
+                        <text id="1:1867" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:1868" name="Link - Type:Flannel → Flannel" x="16" y="329.6499938964844" width="54.526126861572266" height="14" />
+                  <text id="1:1869" name="Heading 3 → Link → Lunara Flannel" x="16" y="353.6499938964844" width="107.5058364868164" height="18" />
+                  <text id="1:1870" name="$100.00" x="16" y="380.6499938964844" width="56.57250213623047" height="18" />
+                  <frame id="1:1871" name="List" x="16" y="413.1499938964844" width="218" height="26" />
+                </frame>
+              </frame>
+              <frame id="1:1874" name="Group - 2 / 3" x="960" y="0" width="960" height="630">
+                <frame id="1:1875" name="motion-element → Picture → Man in a green hooded puffer jacket standing on a golden grassy hillside" x="0" y="0" width="960" height="630" />
+                <rounded-rectangle id="1:1876" name="Rectangle" x="0" y="0" width="960" height="630" />
+              </frame>
+            </frame>
+            <frame id="1:1877" name="Background" x="960" y="0" width="806.3900146484375" height="630">
+              <text id="1:1878" name="Heading 2 → motion-element → Our Favorite Products" x="60" y="119.54000091552734" width="200.85585021972656" height="19" />
+              <frame id="1:1879" name="motion-element" x="60" y="182.4499969482422" width="686.3900146484375" height="218">
+                <frame id="1:1880" name="Group - 1 / 3" x="0" y="0" width="686" height="218">
+                  <text id="1:1881" name="“A versatile beach staple. Crafted from 100% cotton and perfectly sized for lounging or changing”" x="0" y="1" width="678.1121826171875" height="123" />
+                  <text id="1:1882" name="Heading 3 → Jenny Wilson" x="0" y="158" width="114.48673248291016" height="28" />
+                  <text id="1:1883" name="New Mexico" x="0" y="197" width="87.44454193115234" height="18" />
+                </frame>
+                <frame id="1:1884" name="Group - 2 / 3" x="686" y="0" width="686" height="218">
+                  <text id="1:1885" name="“Incredibly warm and lightweight—this jacket is perfect for chilly days and looks great too!”" x="0" y="1" width="624.280029296875" height="123" />
+                  <text id="1:1886" name="Heading 3 → Cienna Leigh" x="0" y="158" width="111.59221649169922" height="28" />
+                  <text id="1:1887" name="California" x="0" y="197" width="69.08590698242188" height="18" />
+                </frame>
+              </frame>
+              <frame id="1:1888" name="motion-element" x="53" y="488.45001220703125" width="700.3900146484375" height="24">
+                <frame id="1:1889" name="Button - Previous slide" x="0" y="0" width="24" height="24">
+                  <frame id="1:1890" name="SVG" x="2" y="2" width="20" height="20" />
+                </frame>
+                <frame id="1:1892" name="Button - Next slide" x="64" y="0" width="24" height="24">
+                  <frame id="1:1893" name="SVG" x="2" y="2" width="20" height="20" />
+                </frame>
+                <text id="1:1895" name="1/3" x="34.470001220703125" y="2.5" width="19.372875213623047" height="18" />
+              </frame>
+            </frame>
+            <frame id="1:1896" name="Group - 1 / 3 → Picture → Man in a green hooded puffer jacket standing on a golden grassy hillside" x="1766.3900146484375" y="0" width="960" height="630" />
+          </frame>
+        </frame>
+        <frame id="1:1897" name="Section" x="0" y="4129.66015625" width="1920" height="609.52001953125">
+          <text id="1:1898" name="Heading 2 → motion-element → Shop By Campaign" x="135" y="63" width="288.3421325683594" height="42" />
+          <frame id="1:1899" name="motion-element" x="1677" y="60" width="108" height="48">
+            <frame id="1:1900" name="Button - Previous slide" x="0" y="0" width="48" height="48">
+              <frame id="1:1901" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+            <frame id="1:1903" name="Button - Next slide" x="60" y="0" width="48" height="48">
+              <frame id="1:1904" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+          </frame>
+          <frame id="1:1906" name="collection-cards" x="135" y="140" width="1650" height="469.5199890136719">
+            <frame id="1:1907" name="Group - 1 / 7" x="0" y="0" width="390" height="469.5199890136719">
+              <rounded-rectangle id="1:1908" name="Mask" x="0" y="0" width="390" height="469.5199890136719" />
+              <frame id="1:1909" name="Background+Border" x="0" y="0" width="390" height="469.5199890136719">
+                <frame id="1:1910" name="Mask Group" x="13" y="13" width="272.6400146484375" height="363.5199890136719">
+                  <rounded-rectangle id="1:1911" name="Mask" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  <frame id="1:1912" name="Container" x="0" y="0" width="272.6400146484375" height="363.5199890136719">
+                    <frame id="1:1913" name="motion-element → Link → Man in a rust plaid flannel shirt and beanie carrying a surfboard through a field" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  </frame>
+                </frame>
+                <frame id="1:1914" name="Link - Timber Flannel:mask-group" x="289.6400146484375" y="13" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1915" name="Link - Timber Flannel:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1916" name="Link - Timber Flannel" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1917" name="Timber Flannel" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1918" name="Link - Lunara Flannel:mask-group" x="289.6400146484375" y="135.5" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1919" name="Link - Lunara Flannel:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1920" name="Link - Lunara Flannel" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1921" name="Lunara Flannel" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1922" name="Link - Hadley Brushed Flannel:mask-group" x="289.6400146484375" y="258" width="87.36000061035156" height="118.5199966430664">
+                  <rounded-rectangle id="1:1923" name="Link - Hadley Brushed Flannel:mask" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  <frame id="1:1924" name="Link - Hadley Brushed Flannel" x="0" y="0" width="87.36000061035156" height="118.5199966430664">
+                    <frame id="1:1925" name="Hadley Brushed Flannel" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  </frame>
+                </frame>
+                <text id="1:1926" name="Heading 3 → Flannels" x="13" y="396.510009765625" width="73.98355102539062" height="30" />
+                <text id="1:1927" name="9 Items" x="13" y="430.510009765625" width="53.69353103637695" height="24" />
+                <frame id="1:1928" name="Link" x="297.1099853515625" y="406.510009765625" width="79.88999938964844" height="38">
+                  <frame id="1:1929" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                    <text id="1:1930" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1931" name="Group - 2 / 7" x="420" y="0" width="390" height="469.5199890136719">
+              <rounded-rectangle id="1:1932" name="Mask" x="0" y="0" width="390" height="469.5199890136719" />
+              <frame id="1:1933" name="Background+Border" x="0" y="0" width="390" height="469.5199890136719">
+                <frame id="1:1934" name="Mask Group" x="13" y="13" width="272.6400146484375" height="363.5199890136719">
+                  <rounded-rectangle id="1:1935" name="Mask" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  <frame id="1:1936" name="Container" x="0" y="0" width="272.6400146484375" height="363.5199890136719">
+                    <frame id="1:1937" name="motion-element → Link → Man in a white tee and blue corduroy shorts walking past a concrete wall in flip-flops" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  </frame>
+                </frame>
+                <frame id="1:1938" name="Link - Wade Coast Short:mask-group" x="289.6400146484375" y="13" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1939" name="Link - Wade Coast Short:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1940" name="Link - Wade Coast Short" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1941" name="Wade Coast Short" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1942" name="Link - Darian Coast Short:mask-group" x="289.6400146484375" y="135.5" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1943" name="Link - Darian Coast Short:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1944" name="Link - Darian Coast Short" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1945" name="Darian Coast Short" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1946" name="Link - Mason Short:mask-group" x="289.6400146484375" y="258" width="87.36000061035156" height="118.5199966430664">
+                  <rounded-rectangle id="1:1947" name="Link - Mason Short:mask" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  <frame id="1:1948" name="Link - Mason Short" x="0" y="0" width="87.36000061035156" height="118.5199966430664">
+                    <frame id="1:1949" name="Mason Short" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  </frame>
+                </frame>
+                <text id="1:1950" name="Heading 3 → Shorts" x="13" y="396.510009765625" width="59.270904541015625" height="30" />
+                <text id="1:1951" name="8 Items" x="13" y="430.510009765625" width="53.773780822753906" height="24" />
+                <frame id="1:1952" name="Link" x="297.1099853515625" y="406.510009765625" width="79.88999938964844" height="38">
+                  <frame id="1:1953" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                    <text id="1:1954" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1955" name="Group - 3 / 7" x="840" y="0" width="390" height="469.5199890136719">
+              <rounded-rectangle id="1:1956" name="Mask" x="0" y="0" width="390" height="469.5199890136719" />
+              <frame id="1:1957" name="Background+Border" x="0" y="0" width="390" height="469.5199890136719">
+                <frame id="1:1958" name="Mask Group" x="13" y="13" width="272.6400146484375" height="363.5199890136719">
+                  <rounded-rectangle id="1:1959" name="Mask" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  <frame id="1:1960" name="Container" x="0" y="0" width="272.6400146484375" height="363.5199890136719">
+                    <frame id="1:1961" name="motion-element → Link → Dark green trucker cap with a Quality Trunks patch resting on driftwood" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  </frame>
+                </frame>
+                <frame id="1:1962" name="Link - Seasonal Hat:mask-group" x="289.6400146484375" y="13" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1963" name="Link - Seasonal Hat:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1964" name="Link - Seasonal Hat" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1965" name="Seasonal Hat" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1966" name="Link - Breezy Hat:mask-group" x="289.6400146484375" y="135.5" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1967" name="Link - Breezy Hat:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1968" name="Link - Breezy Hat" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1969" name="Breezy Hat" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1970" name="Link - Ridgey Corduroy Hat:mask-group" x="289.6400146484375" y="258" width="87.36000061035156" height="118.5199966430664">
+                  <rounded-rectangle id="1:1971" name="Link - Ridgey Corduroy Hat:mask" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  <frame id="1:1972" name="Link - Ridgey Corduroy Hat" x="0" y="0" width="87.36000061035156" height="118.5199966430664">
+                    <frame id="1:1973" name="Ridgey Corduroy Hat" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  </frame>
+                </frame>
+                <text id="1:1974" name="Heading 3 → Hats" x="13" y="396.510009765625" width="40.59272003173828" height="30" />
+                <text id="1:1975" name="15 Items" x="13" y="430.510009765625" width="57.89662551879883" height="24" />
+                <frame id="1:1976" name="Link" x="297.1099853515625" y="406.510009765625" width="79.88999938964844" height="38">
+                  <frame id="1:1977" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                    <text id="1:1978" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1979" name="Group - 4 / 7" x="1260" y="0" width="390" height="469.5199890136719">
+              <rounded-rectangle id="1:1980" name="Mask" x="0" y="0" width="390" height="469.5199890136719" />
+              <frame id="1:1981" name="Background+Border" x="0" y="0" width="390" height="469.5199890136719">
+                <frame id="1:1982" name="Mask Group" x="13" y="13" width="272.6400146484375" height="363.5199890136719">
+                  <rounded-rectangle id="1:1983" name="Mask" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  <frame id="1:1984" name="Container" x="0" y="0" width="272.6400146484375" height="363.5199890136719">
+                    <frame id="1:1985" name="motion-element → Link → Skateboarder in white crew socks with yellow and green stripes and brown suede sneakers" x="0" y="0" width="272.6400146484375" height="363.5199890136719" />
+                  </frame>
+                </frame>
+                <frame id="1:1986" name="Link - Breezy Sock:mask-group" x="289.6400146484375" y="13" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1987" name="Link - Breezy Sock:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1988" name="Link - Breezy Sock" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1989" name="Breezy Sock" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1990" name="Link - Ezra Sock:mask-group" x="289.6400146484375" y="135.5" width="87.36000061035156" height="118.5">
+                  <rounded-rectangle id="1:1991" name="Link - Ezra Sock:mask" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  <frame id="1:1992" name="Link - Ezra Sock" x="0" y="0" width="87.36000061035156" height="118.5">
+                    <frame id="1:1993" name="Ezra Sock" x="0" y="0" width="87.36000061035156" height="118.5" />
+                  </frame>
+                </frame>
+                <frame id="1:1994" name="Link - Logan Rainbow Sock:mask-group" x="289.6400146484375" y="258" width="87.36000061035156" height="118.5199966430664">
+                  <rounded-rectangle id="1:1995" name="Link - Logan Rainbow Sock:mask" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  <frame id="1:1996" name="Link - Logan Rainbow Sock" x="0" y="0" width="87.36000061035156" height="118.5199966430664">
+                    <frame id="1:1997" name="Logan Rainbow Sock" x="0" y="0" width="87.36000061035156" height="118.5199966430664" />
+                  </frame>
+                </frame>
+                <text id="1:1998" name="Heading 3 → Socks" x="13" y="396.510009765625" width="53.4929084777832" height="30" />
+                <text id="1:1999" name="4 Items" x="13" y="430.510009765625" width="53.02143859863281" height="24" />
+                <frame id="1:2000" name="Link" x="297.1099853515625" y="406.510009765625" width="79.88999938964844" height="38">
+                  <frame id="1:2001" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                    <text id="1:2002" name="Shop" x="0" y="6" width="38.20528030395508" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2003" name="Background" x="0" y="4739.169921875" width="1920" height="736.530029296875">
+          <frame id="1:2004" name="tabs-component" x="135" y="60" width="1650" height="616.530029296875">
+            <frame id="1:2005" name="Tabpanel → grid-list" x="577.5" y="0" width="1072.5" height="616.530029296875">
+              <frame id="1:2006" name="Link - Woods Fleece" x="0" y="0" width="532.25" height="616.530029296875">
+                <rounded-rectangle id="1:2007" name="Mask" x="0" y="0" width="532.25" height="616.530029296875" />
+                <frame id="1:2008" name="Background" x="0" y="0" width="532.25" height="616.530029296875">
+                  <frame id="1:2009" name="motion-element → Picture" x="0" y="0" width="532.25" height="616.530029296875">
+                    <frame id="1:2010" name="Man in a grey hoodie, beanie and jeans sitting on a beach boardwalk railing" x="0" y="0" width="532.25" height="616.530029296875" />
+                    <rounded-rectangle id="1:2011" name="Gradient" x="0" y="0" width="532.25" height="616.530029296875" />
+                  </frame>
+                  <text id="1:2012" name="Heading 3 → motion-element → Surfing Favorites" x="16" y="467.8800048828125" width="230.92933654785156" height="38" />
+                  <frame id="1:2013" name="Overlay+OverlayBlur" x="0" y="525.8800048828125" width="532.25" height="90.66000366210938">
+                    <frame id="1:2014" name="Woods Fleece:mask-group" x="12" y="12" width="50" height="66.66000366210938">
+                      <rounded-rectangle id="1:2015" name="Woods Fleece:mask" x="0" y="0" width="50" height="66.66000366210938" />
+                      <frame id="1:2016" name="Woods Fleece" x="0" y="0" width="50" height="66.66000366210938">
+                        <frame id="1:2017" name="Woods Fleece" x="0" y="0" width="50" height="66.66000366210938" />
+                      </frame>
+                    </frame>
+                    <frame id="1:2018" name="Container" x="74" y="20.079999923706055" width="354.3599853515625" height="24">
+                      <text id="1:2019" name="Woods Fleece" x="0" y="3" width="101.9371566772461" height="18" />
+                    </frame>
+                    <text id="1:2020" name="$200.00" x="74" y="50.08000183105469" width="60.414466857910156" height="18" />
+                    <frame id="1:2021" name="Button" x="440.3599853515625" y="26.329999923706055" width="79.88999938964844" height="38">
+                      <frame id="1:2022" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                        <text id="1:2023" name="shop" x="0" y="6" width="38.20528030395508" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+              <frame id="1:2024" name="Link - Cody Beanie" x="540.25" y="0" width="532.25" height="616.530029296875">
+                <rounded-rectangle id="1:2025" name="Mask" x="0" y="0" width="532.25" height="616.530029296875" />
+                <frame id="1:2026" name="Background" x="0" y="0" width="532.25" height="616.530029296875">
+                  <frame id="1:2027" name="motion-element → Picture" x="0" y="0" width="532.25" height="616.530029296875">
+                    <frame id="1:2028" name="Bearded man in a rust ribbed beanie and sage knit sweater by the coast" x="0" y="0" width="532.25" height="616.530029296875" />
+                    <rounded-rectangle id="1:2029" name="Gradient" x="0" y="0" width="532.25" height="616.530029296875" />
+                  </frame>
+                  <text id="1:2030" name="Heading 3 → motion-element → Classic Accessories" x="16" y="467.8800048828125" width="267.0838317871094" height="38" />
+                  <frame id="1:2031" name="Overlay+OverlayBlur" x="0" y="525.8800048828125" width="532.25" height="90.66000366210938">
+                    <frame id="1:2032" name="Cody Beanie:mask-group" x="12" y="12" width="50" height="66.66000366210938">
+                      <rounded-rectangle id="1:2033" name="Cody Beanie:mask" x="0" y="0" width="50" height="66.66000366210938" />
+                      <frame id="1:2034" name="Cody Beanie" x="0" y="0" width="50" height="66.66000366210938">
+                        <frame id="1:2035" name="Cody Beanie" x="0" y="0" width="50" height="66.66000366210938" />
+                      </frame>
+                    </frame>
+                    <frame id="1:2036" name="Container" x="74" y="20.079999923706055" width="354.3599853515625" height="24">
+                      <text id="1:2037" name="Cody Beanie" x="0" y="3" width="91.65110778808594" height="18" />
+                    </frame>
+                    <text id="1:2038" name="$200.00" x="74" y="50.08000183105469" width="60.414466857910156" height="18" />
+                    <frame id="1:2039" name="Button" x="440.3599853515625" y="26.329999923706055" width="79.88999938964844" height="38">
+                      <frame id="1:2040" name="Container" x="21" y="4" width="37.88999938964844" height="30">
+                        <text id="1:2041" name="shop" x="0" y="6" width="38.20528030395508" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2042" name="Container" x="0" y="33" width="477.5" height="436.9100036621094">
+              <text id="1:2043" name="motion-element → Seasonal Edition" x="0" y="2" width="151.2671356201172" height="19" />
+              <text id="1:2044" name="Heading 2 → motion-element → The October Cleaner
+Fashion" x="0" y="36.90999984741211" width="386.2300109863281" height="96" />
+              <text id="1:2045" name="motion-element → We create safe products that really work and are designed to
+make you feel good." x="0" y="147.91000366210938" width="435.9200134277344" height="42" />
+              <frame id="1:2046" name="Tablist" x="0" y="224.91000366210938" width="477.5" height="132">
+                <rounded-rectangle id="1:2047" name="Vertical Divider" x="0" y="0" width="2" height="132" />
+                <frame id="1:2048" name="motion-element" x="0" y="0" width="477.5" height="132">
+                  <frame id="1:2049" name="Tab" x="0" y="0" width="477.5" height="44">
+                    <text id="1:2050" name="Outerwear Collection" x="12" y="8" width="186.1743927001953" height="28" />
+                    <rounded-rectangle id="1:2051" name="Vertical Divider" x="0" y="0" width="2" height="44" />
+                  </frame>
+                  <text id="1:2052" name="Tab → Cashmere Sweaters" x="12" y="52" width="176.72702026367188" height="28" />
+                  <text id="1:2053" name="Tab → The Cold Weather" x="12" y="96" width="154.6998291015625" height="28" />
+                </frame>
+              </frame>
+              <frame id="1:2054" name="motion-element → Link" x="0" y="388.9100036621094" width="196.0800018310547" height="48">
+                <frame id="1:2055" name="Container" x="33" y="9" width="130.0800018310547" height="30">
+                  <text id="1:2056" name="Shop All Products" x="0" y="6" width="130.38084411621094" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2057" name="Section" x="0" y="5475.7001953125" width="1920" height="530.8400268554688">
+          <text id="1:2058" name="Heading 2 → motion-element → Clients Love Us" x="135" y="63" width="230.39892578125" height="42" />
+          <frame id="1:2059" name="motion-element" x="1677" y="60" width="108" height="48">
+            <frame id="1:2060" name="Button - Previous slide" x="0" y="0" width="48" height="48">
+              <frame id="1:2061" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+            <frame id="1:2063" name="Button - Next slide" x="60" y="0" width="48" height="48">
+              <frame id="1:2064" name="SVG" x="14" y="14" width="20" height="20" />
+            </frame>
+          </frame>
+          <frame id="1:2066" name="testimonials-component" x="135" y="140" width="1650" height="330.8399963378906">
+            <frame id="1:2067" name="Group - 1 / 6" x="0" y="0" width="544.6599731445312" height="330.8399963378906">
+              <rounded-rectangle id="1:2068" name="Mask" x="0" y="0" width="544.6599731445312" height="330.8399963378906" />
+              <frame id="1:2069" name="Background" x="0" y="0" width="544.6599731445312" height="330.8399963378906">
+                <text id="1:2070" name="Heading 3 → Melissa H." x="16" y="20" width="88.85675048828125" height="28" />
+                <text id="1:2071" name="Verified Buyer" x="112.5199966430664" y="23" width="91.82137298583984" height="22" />
+                <text id="1:2072" name="“Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool.”" x="16" y="67" width="334.8900146484375" height="66" />
+                <frame id="1:2073" name="Mask Group" x="368.6600036621094" y="20" width="160" height="200.52000427246094">
+                  <rounded-rectangle id="1:2074" name="Mask" x="0" y="0" width="160" height="200.52000427246094" />
+                  <frame id="1:2075" name="Container" x="0" y="0" width="160" height="200.52000427246094">
+                    <frame id="1:2076" name="motion-element → Bearded man adjusting a tan cap with a circular sun embroidery" x="0" y="0" width="160" height="200.52000427246094" />
+                  </frame>
+                </frame>
+                <frame id="1:2077" name="Link" x="16" y="244.52000427246094" width="512.6599731445312" height="66.33000183105469">
+                  <text id="1:2078" name="Down Jacket" x="52" y="30.65999984741211" width="89.46770477294922" height="18" />
+                  <frame id="1:2079" name="Mask Group" x="0" y="13" width="40" height="53.33000183105469">
+                    <rounded-rectangle id="1:2080" name="Mask" x="0" y="0" width="40" height="53.33000183105469" />
+                    <frame id="1:2081" name="Container" x="0" y="0" width="40" height="53.33000183105469">
+                      <frame id="1:2082" name="Down Jacket" x="0" y="0" width="40" height="53.33000183105469" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2083" name="Group - 2 / 6" x="552.6599731445312" y="0" width="544.6599731445312" height="330.8399963378906">
+              <rounded-rectangle id="1:2084" name="Mask" x="0" y="0" width="544.6599731445312" height="330.8399963378906" />
+              <frame id="1:2085" name="Background" x="0" y="0" width="544.6599731445312" height="330.8399963378906">
+                <text id="1:2086" name="Heading 3 → Cindy L." x="16" y="20" width="68.91564178466797" height="28" />
+                <text id="1:2087" name="Verified Buyer" x="92.61000061035156" y="23" width="91.82137298583984" height="22" />
+                <text id="1:2088" name="“The denim is strong and of high quality, with just a bit of stretch.”" x="16" y="67" width="319.67999267578125" height="42" />
+                <frame id="1:2089" name="Mask Group" x="368.6499938964844" y="20" width="160" height="200.52000427246094">
+                  <rounded-rectangle id="1:2090" name="Mask" x="0" y="0" width="160" height="200.52000427246094" />
+                  <frame id="1:2091" name="Container" x="0" y="0" width="160" height="200.52000427246094">
+                    <frame id="1:2092" name="motion-element → Man in cream chinos and a navy shirt leaning against a wooden fence" x="0" y="0" width="160" height="200.52000427246094" />
+                  </frame>
+                </frame>
+                <frame id="1:2093" name="Link" x="16" y="244.52000427246094" width="512.6599731445312" height="66.33000183105469">
+                  <text id="1:2094" name="Trendy Pants" x="52" y="30.65999984741211" width="94.34530639648438" height="18" />
+                  <frame id="1:2095" name="Mask Group" x="0" y="13" width="40" height="53.33000183105469">
+                    <rounded-rectangle id="1:2096" name="Mask" x="0" y="0" width="40" height="53.33000183105469" />
+                    <frame id="1:2097" name="Container" x="0" y="0" width="40" height="53.33000183105469">
+                      <frame id="1:2098" name="Trendy Pants" x="0" y="0" width="40" height="53.33000183105469" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2099" name="Group - 3 / 6" x="1105.31005859375" y="0" width="544.6599731445312" height="330.8399963378906">
+              <rounded-rectangle id="1:2100" name="Mask" x="0" y="0" width="544.6599731445312" height="330.8399963378906" />
+              <frame id="1:2101" name="Background" x="0" y="0" width="544.6599731445312" height="330.8399963378906">
+                <text id="1:2102" name="Heading 3 → Wilson J." x="16" y="20" width="74.78479766845703" height="28" />
+                <text id="1:2103" name="Verified Buyer" x="98.47000122070312" y="23" width="91.82137298583984" height="22" />
+                <text id="1:2104" name="“Hands down one of the best shirts I’ve ever owned. Fits great, feels amazing, seems to stay cool.”" x="16" y="67" width="334.8900146484375" height="66" />
+                <frame id="1:2105" name="Mask Group" x="368.6600036621094" y="20" width="160" height="200.52000427246094">
+                  <rounded-rectangle id="1:2106" name="Mask" x="0" y="0" width="160" height="200.52000427246094" />
+                  <frame id="1:2107" name="Container" x="0" y="0" width="160" height="200.52000427246094">
+                    <frame id="1:2108" name="motion-element → Man in an olive beanie and a cream striped flannel shirt holding a surfboard" x="0" y="0" width="160" height="200.52000427246094" />
+                  </frame>
+                </frame>
+                <frame id="1:2109" name="Link" x="16" y="244.52000427246094" width="512.6599731445312" height="66.33000183105469">
+                  <text id="1:2110" name="Banks Hood" x="52" y="30.65999984741211" width="86.10245513916016" height="18" />
+                  <frame id="1:2111" name="Mask Group" x="0" y="13" width="40" height="53.33000183105469">
+                    <rounded-rectangle id="1:2112" name="Mask" x="0" y="0" width="40" height="53.33000183105469" />
+                    <frame id="1:2113" name="Container" x="0" y="0" width="40" height="53.33000183105469">
+                      <frame id="1:2114" name="Banks Hood" x="0" y="0" width="40" height="53.33000183105469" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2115" name="Group - 4 / 6" x="1657.969970703125" y="0" width="544.6599731445312" height="330.8399963378906">
+              <rounded-rectangle id="1:2116" name="Mask" x="0" y="0" width="544.6599731445312" height="330.8399963378906" />
+              <frame id="1:2117" name="Background" x="0" y="0" width="544.6599731445312" height="330.8399963378906">
+                <text id="1:2118" name="Heading 3 → Samantha T." x="16" y="20" width="107.52587890625" height="28" />
+                <text id="1:2119" name="&quot;This shirt is among the top in my collection. It fits excellently.&quot;" x="16" y="67" width="327.6700134277344" height="42" />
+                <frame id="1:2120" name="Link" x="16" y="244.52000427246094" width="512.6599731445312" height="66.33000183105469">
+                  <text id="1:2121" name="Bonded Hoodie" x="52" y="30.65999984741211" width="109.8695297241211" height="18" />
+                  <frame id="1:2122" name="Mask Group" x="0" y="13" width="40" height="53.33000183105469">
+                    <rounded-rectangle id="1:2123" name="Mask" x="0" y="0" width="40" height="53.33000183105469" />
+                    <frame id="1:2124" name="Container" x="0" y="0" width="40" height="53.33000183105469">
+                      <frame id="1:2125" name="Bonded Hoodie" x="0" y="0" width="40" height="53.33000183105469" />
+                    </frame>
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2126" name="Background" x="0" y="6006.5498046875" width="1920" height="1248.25">
+          <frame id="1:2127" name="Container" x="135" y="60" width="800" height="918.6900024414062">
+            <frame id="1:2128" name="Link - Plush Cotton Sweaters" x="0" y="0" width="800" height="918.6900024414062">
+              <rounded-rectangle id="1:2129" name="Mask" x="0" y="0" width="800" height="918.6900024414062" />
+              <frame id="1:2130" name="Container" x="0" y="0" width="800" height="918.6900024414062">
+                <frame id="1:2131" name="motion-element → Picture" x="0" y="0" width="800" height="918.6900024414062">
+                  <frame id="1:2132" name="Man in a teal hoodie waxing a surfboard in a field" x="0" y="0" width="800" height="918.6900024414062" />
+                  <rounded-rectangle id="1:2133" name="Background" x="0" y="0" width="800" height="918.6900024414062" />
+                </frame>
+                <text id="1:2134" name="motion-element → Trending Now" x="337.9100036621094" y="339.8900146484375" width="124.58248138427734" height="19" />
+                <text id="1:2135" name="motion-element → Plush Cotton
+Sweaters" x="244.72000122070312" y="379.7900085449219" width="310.75" height="127" />
+                <frame id="1:2136" name="motion-element → Button" x="309.5899963378906" y="532.7899780273438" width="180.8000030517578" height="48">
+                  <frame id="1:2137" name="Container" x="33" y="9" width="114.80000305175781" height="30">
+                    <text id="1:2138" name="Shop Collection" x="0" y="6" width="115.17781066894531" height="18" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:2139" name="Container" x="985" y="60" width="800" height="1128.25">
+            <frame id="1:2140" name="collection-item-slider" x="0" y="0" width="800" height="543.3800048828125">
+              <frame id="1:2141" name="motion-element" x="0" y="0" width="800" height="48">
+                <text id="1:2142" name="Heading 2 → The Cashmere Shop" x="0" y="3" width="305.67889404296875" height="42" />
+                <frame id="1:2143" name="Button - Previous slide" x="692" y="0" width="48" height="48">
+                  <frame id="1:2144" name="SVG" x="14" y="14" width="20" height="20" />
+                </frame>
+                <frame id="1:2146" name="Button - Next slide" x="752" y="0" width="48" height="48">
+                  <frame id="1:2147" name="SVG" x="14" y="14" width="20" height="20" />
+                </frame>
+              </frame>
+              <frame id="1:2149" name="grid-list" x="0" y="80" width="800" height="463.3800048828125">
+                <frame id="1:2150" name="Group - 1 / 6" x="-0.029999999329447746" y="0" width="246.66000366210938" height="463.3800048828125">
+                  <frame id="1:2151" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2152" name="Link → motion-element → Down Jacket" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2153" name="Button dialog" x="20" y="275.8699951171875" width="206.66000366210938" height="48">
+                      <frame id="1:2154" name="Container" x="45.54999923706055" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2155" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2156" name="Link - Type:Jackets → Jackets" x="0" y="351.8699951171875" width="51.38634490966797" height="14" />
+                  <text id="1:2157" name="Heading 3 → Link → Down Jacket" x="0" y="375.8699951171875" width="91.82137298583984" height="18" />
+                  <text id="1:2158" name="$350.00" x="0" y="402.8699951171875" width="59.86275100708008" height="18" />
+                  <frame id="1:2159" name="List" x="0" y="435.3699951171875" width="246.66000366210938" height="28" />
+                </frame>
+                <frame id="1:2162" name="Group - 2 / 6" x="276.6300048828125" y="0" width="246.66000366210938" height="463.3800048828125">
+                  <frame id="1:2163" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2164" name="Link → motion-element → Trendy Pants" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2165" name="Button dialog" x="20" y="275.8699951171875" width="206.66000366210938" height="48">
+                      <frame id="1:2166" name="Container" x="45.540000915527344" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2167" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2168" name="Link - Type:Pants → Pants" x="0" y="351.8699951171875" width="39.960750579833984" height="14" />
+                  <text id="1:2169" name="Heading 3 → Link → Trendy Pants" x="0" y="375.8699951171875" width="97.01948547363281" height="18" />
+                  <text id="1:2170" name="$100.00" x="0" y="402.8699951171875" width="56.57250213623047" height="18" />
+                  <frame id="1:2171" name="List" x="0" y="435.3699951171875" width="246.66000366210938" height="28">
+                    <text id="1:2172" name="Item → Link → +1" x="120" y="3" width="9.937874794006348" height="14" />
+                    <rounded-rectangle id="1:2173" name="Item → Link - Trendy Pants - Beige" x="0" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2174" name="Item → Link - Trendy Pants - Olive Stone" x="30" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2175" name="Item → Link - Trendy Pants - Bronze" x="60" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2176" name="Item → Link - Trendy Pants - Earth Brown" x="90" y="0" width="22" height="22" />
+                  </frame>
+                </frame>
+                <frame id="1:2177" name="Group - 3 / 6" x="553.280029296875" y="0" width="246.66000366210938" height="463.3800048828125">
+                  <frame id="1:2178" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2179" name="Link → motion-element → Byron Knit Sweater" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2180" name="Background" x="10" y="10" width="91.11000061035156" height="24">
+                      <text id="1:2181" name="Best Choice!" x="9" y="5" width="73.42266845703125" height="14" />
+                    </frame>
+                    <frame id="1:2182" name="Background" x="10" y="40" width="44.70000076293945" height="24">
+                      <text id="1:2183" name="New" x="9" y="5" width="27.060625076293945" height="14" />
+                    </frame>
+                    <frame id="1:2184" name="Button dialog" x="20" y="275.8699951171875" width="206.66000366210938" height="48">
+                      <frame id="1:2185" name="Container" x="45.54999923706055" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2186" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2187" name="Link - Type:Sweaters → Sweaters" x="0" y="351.8699951171875" width="65.44021606445312" height="14" />
+                  <text id="1:2188" name="Heading 3 → Link → Byron Knit Sweater" x="0" y="375.8699951171875" width="142.4002227783203" height="18" />
+                  <text id="1:2189" name="$100.00" x="0" y="402.8699951171875" width="56.57250213623047" height="18" />
+                  <frame id="1:2190" name="List" x="0" y="435.3699951171875" width="246.66000366210938" height="28" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2193" name="collection-item-slider" x="0" y="583.3699951171875" width="800" height="544.8800048828125">
+              <frame id="1:2194" name="motion-element" x="0" y="0" width="800" height="48">
+                <text id="1:2195" name="Heading 2 → The Boost Edit" x="0" y="3" width="219.5304412841797" height="42" />
+                <frame id="1:2196" name="Button - Previous slide" x="692" y="0" width="48" height="48">
+                  <frame id="1:2197" name="SVG" x="14" y="14" width="20" height="20" />
+                </frame>
+                <frame id="1:2199" name="Button - Next slide" x="752" y="0" width="48" height="48">
+                  <frame id="1:2200" name="SVG" x="14" y="14" width="20" height="20" />
+                </frame>
+              </frame>
+              <frame id="1:2202" name="grid-list" x="0" y="80" width="800" height="464.8800048828125">
+                <frame id="1:2203" name="Group - 1 / 8" x="-0.029999999329447746" y="0" width="246.66000366210938" height="463.3800048828125">
+                  <frame id="1:2204" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2205" name="Link → motion-element → Felton Check Jacket" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2206" name="Button dialog" x="20" y="275.8800048828125" width="206.66000366210938" height="48">
+                      <frame id="1:2207" name="Container" x="45.54999923706055" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2208" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2209" name="Link - Type:Jackets → Jackets" x="0" y="351.8800048828125" width="51.38634490966797" height="14" />
+                  <text id="1:2210" name="Heading 3 → Link → Felton Check Jacket" x="0" y="375.8800048828125" width="145.0623016357422" height="18" />
+                  <text id="1:2211" name="$258.00" x="0" y="402.8800048828125" width="59.722312927246094" height="18" />
+                  <frame id="1:2212" name="List" x="0" y="435.3800048828125" width="246.66000366210938" height="28" />
+                </frame>
+                <frame id="1:2215" name="Group - 2 / 8" x="276.6300048828125" y="0" width="246.66000366210938" height="463.3800048828125">
+                  <frame id="1:2216" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2217" name="Link → motion-element → Wade Coast Short" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2218" name="Button dialog" x="20" y="275.8800048828125" width="206.66000366210938" height="48">
+                      <frame id="1:2219" name="Container" x="45.540000915527344" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2220" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2221" name="Link - Type:Pants → Pants" x="0" y="351.8800048828125" width="39.960750579833984" height="14" />
+                  <text id="1:2222" name="Heading 3 → Link → Wade Coast Short" x="0" y="375.8800048828125" width="131.88201904296875" height="18" />
+                  <text id="1:2223" name="$120.00" x="0" y="402.8800048828125" width="55.31859588623047" height="18" />
+                  <frame id="1:2224" name="List" x="0" y="435.3800048828125" width="246.66000366210938" height="28">
+                    <text id="1:2225" name="Item → Link → +1" x="120" y="3" width="9.937874794006348" height="14" />
+                    <rounded-rectangle id="1:2226" name="Item → Link - Wade Coast Short - Charcoal Black" x="0" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2227" name="Item → Link - Wade Coast Short - Dusty Blue" x="30" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2228" name="Item → Link - Wade Coast Short - Bronze" x="60" y="0" width="22" height="22" />
+                    <rounded-rectangle id="1:2229" name="Item → Link - Wade Coast Short - Olive Stone" x="90" y="0" width="22" height="22" />
+                  </frame>
+                </frame>
+                <frame id="1:2230" name="Group - 3 / 8" x="553.280029296875" y="0" width="246.66000366210938" height="464.8800048828125">
+                  <frame id="1:2231" name="Container" x="0" y="0" width="246.66000366210938" height="328.8800048828125">
+                    <frame id="1:2232" name="Link → motion-element → Grove Fleece" x="0" y="0" width="246.66000366210938" height="328.8800048828125" />
+                    <frame id="1:2233" name="Background" x="10" y="10" width="43.20000076293945" height="24">
+                      <text id="1:2234" name="Sale" x="9" y="5" width="25.551250457763672" height="14" />
+                    </frame>
+                    <frame id="1:2235" name="Mask Group" x="10" y="280.8800048828125" width="226.66000366210938" height="38">
+                      <rounded-rectangle id="1:2236" name="Mask" x="0" y="0" width="226.66000366210938" height="38" />
+                      <frame id="1:2237" name="Background" x="0" y="0" width="226.66000366210938" height="38">
+                        <frame id="1:2238" name="scrolling-promotion" x="0" y="0" width="226.66000366210938" height="38">
+                          <frame id="1:2239" name="SVG" x="4" y="12" width="14" height="14" />
+                          <text id="1:2241" name="Selling Fast" x="26" y="9" width="67.82393646240234" height="20" />
+                        </frame>
+                      </frame>
+                    </frame>
+                    <frame id="1:2242" name="Button dialog" x="20" y="275.8800048828125" width="206.66000366210938" height="48">
+                      <frame id="1:2243" name="Container" x="45.54999923706055" y="9" width="115.55999755859375" height="30">
+                        <text id="1:2244" name="Choose options" x="0" y="6" width="115.93900299072266" height="18" />
+                      </frame>
+                    </frame>
+                  </frame>
+                  <text id="1:2245" name="Link - Type:Sweaters → Sweaters" x="0" y="351.8800048828125" width="65.44021606445312" height="14" />
+                  <text id="1:2246" name="Heading 3 → Link → Grove Fleece" x="0" y="375.8800048828125" width="94.8460922241211" height="18" />
+                  <text id="1:2247" name="$200.00" x="0" y="401.6300048828125" width="60.414466857910156" height="22.5" />
+                  <text id="1:2248" name="Strikethrough → $230.00" x="68.02999877929688" y="403.8800048828125" width="59.551780700683594" height="18" />
+                  <frame id="1:2249" name="List" x="0" y="436.8800048828125" width="246.66000366210938" height="28" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <rounded-rectangle id="1:2252" name="Horizontal Divider" x="0" y="7254.7998046875" width="1920" height="1" />
+        <frame id="1:2253" name="Background" x="0" y="7255.7998046875" width="1920" height="846.5800170898438">
+          <text id="1:2254" name="Heading 2 → motion-element → The Cult Favorite" x="801.6699829101562" y="60" width="316.9632873535156" height="48" />
+          <frame id="1:2255" name="lookbook-card-wrapper" x="135" y="140" width="529.9400024414062" height="706.5800170898438">
+            <frame id="1:2256" name="Mask Group" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+              <rounded-rectangle id="1:2257" name="Mask" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+              <frame id="1:2258" name="Container" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+                <frame id="1:2259" name="motion-element → Mustard sweatshirt with an orange flower print draped over a driftwood branch" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+              </frame>
+            </frame>
+            <frame id="1:2260" name="Button menu - View product list" x="448.8599853515625" y="638.5800170898438" width="61.08000183105469" height="48">
+              <frame id="1:2261" name="Container" x="12" y="9" width="37.08000183105469" height="30">
+                <text id="1:2262" name="3" x="28" y="6" width="9.380999565124512" height="18" />
+                <frame id="1:2263" name="SVG" x="0" y="5" width="20" height="20" />
+              </frame>
+            </frame>
+            <frame id="1:2266" name="lookbook-card" x="162.44000244140625" y="270.67999267578125" width="300" height="360.79998779296875">
+              <frame id="1:2267" name="HorizontalBorder" x="0" y="0" width="300" height="42.400001525878906">
+                <text id="1:2268" name="Heading 3 → Shop this look" x="12.800000190734863" y="12" width="99.71691131591797" height="17.600000381469727" />
+                <frame id="1:2269" name="Button - Close → SVG" x="271.20001220703125" y="12.789999961853027" width="16" height="16" />
+              </frame>
+              <frame id="1:2272" name="Container" x="0" y="42.400001525878906" width="300" height="305.6000061035156">
+                <frame id="1:2273" name="Link - Cody Beanie" x="12.800000190734863" y="12.789999961853027" width="60" height="80">
+                  <rounded-rectangle id="1:2274" name="Mask" x="0" y="0" width="60" height="80" />
+                  <frame id="1:2275" name="Container" x="0" y="0" width="60" height="80">
+                    <frame id="1:2276" name="Cody Beanie" x="0" y="0" width="60" height="80" />
+                  </frame>
+                </frame>
+                <frame id="1:2277" name="Heading 3" x="82.4000015258789" y="33.599998474121094" width="169.60000610351562" height="19.200000762939453">
+                  <text id="1:2278" name="Link → Cody Beanie" x="0" y="2.4000000953674316" width="73.36257934570312" height="14.399999618530273" />
+                </frame>
+                <text id="1:2279" name="$200.00" x="82.4000015258789" y="55.20000076293945" width="48.366939544677734" height="14.399999618530273" />
+                <frame id="1:2280" name="Link - Cody Beanie" x="261.6000061035156" y="40" width="25.600000381469727" height="25.600000381469727">
+                  <frame id="1:2281" name="SVG" x="7.199999809265137" y="7.199999809265137" width="11.199999809265137" height="11.199999809265137" />
+                </frame>
+                <frame id="1:2283" name="HorizontalBorder" x="0" y="105.5999984741211" width="300" height="106.4000015258789">
+                  <frame id="1:2284" name="Link - Sage Knit Hoodie" x="12.800000190734863" y="13.600000381469727" width="60" height="80">
+                    <rounded-rectangle id="1:2285" name="Mask" x="0" y="0" width="60" height="80" />
+                    <frame id="1:2286" name="Container" x="0" y="0" width="60" height="80">
+                      <frame id="1:2287" name="Sage Knit Hoodie" x="0" y="0" width="60" height="80" />
+                    </frame>
+                  </frame>
+                  <frame id="1:2288" name="Heading 3" x="82.4000015258789" y="34.400001525878906" width="169.60000610351562" height="19.200000762939453">
+                    <text id="1:2289" name="Link → Sage Knit Hoodie" x="0" y="2.390000104904175" width="99.90750122070312" height="14.399999618530273" />
+                  </frame>
+                  <text id="1:2290" name="$350.00" x="82.4000015258789" y="56" width="47.93559646606445" height="14.399999618530273" />
+                  <frame id="1:2291" name="Link - Sage Knit Hoodie" x="261.6000061035156" y="40.790000915527344" width="25.600000381469727" height="25.600000381469727">
+                    <frame id="1:2292" name="SVG" x="7.199999809265137" y="7.210000038146973" width="11.199999809265137" height="11.199999809265137" />
+                  </frame>
+                </frame>
+                <frame id="1:2294" name="HorizontalBorder" x="0" y="212" width="300" height="93.5999984741211">
+                  <frame id="1:2295" name="Link - Felton Check Jacket" x="12.800000190734863" y="13.600000381469727" width="60" height="80">
+                    <rounded-rectangle id="1:2296" name="Mask" x="0" y="0" width="60" height="80" />
+                    <frame id="1:2297" name="Container" x="0" y="0" width="60" height="80">
+                      <frame id="1:2298" name="Felton Check Jacket" x="0" y="0" width="60" height="80" />
+                    </frame>
+                  </frame>
+                  <frame id="1:2299" name="Heading 3" x="82.4000015258789" y="34.38999938964844" width="169.60000610351562" height="19.200000762939453">
+                    <text id="1:2300" name="Link → Felton Check Jacket" x="0" y="2.4000000953674316" width="116.35874938964844" height="14.399999618530273" />
+                  </frame>
+                  <text id="1:2301" name="$258.00" x="82.4000015258789" y="56" width="47.82524871826172" height="14.399999618530273" />
+                  <frame id="1:2302" name="Link - Felton Check Jacket" x="261.6000061035156" y="40.790000915527344" width="25.600000381469727" height="25.600000381469727">
+                    <frame id="1:2303" name="SVG" x="7.199999809265137" y="7.210000038146973" width="11.199999809265137" height="11.199999809265137" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:2305" name="Link - 30% OFF Accessories" x="694.9400024414062" y="140" width="529.9400024414062" height="706.5800170898438">
+            <rounded-rectangle id="1:2306" name="Mask" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+            <frame id="1:2307" name="Container" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+              <frame id="1:2308" name="motion-element → Picture" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+                <frame id="1:2309" name="Person holding up a cream beach towel with a blue sun print against a teal wall" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+                <rounded-rectangle id="1:2310" name="Background" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+              </frame>
+              <frame id="1:2311" name="motion-element" x="182.39999389648438" y="32" width="165.11000061035156" height="32.90999984741211">
+                <rounded-rectangle id="1:2312" name="Overlay+Shadow" x="0" y="0" width="165.11000061035156" height="32.90999984741211" />
+                <text id="1:2313" name="Exclusion Apply" x="12" y="6" width="141.41946411132812" height="19" />
+              </frame>
+              <text id="1:2314" name="motion-element → 30% OFF
+Accessories" x="149" y="273.2799987792969" width="232.13999938964844" height="96" />
+              <text id="1:2315" name="motion-element → Linen is breathable, antimicrobial, heat-
+regulating, and long-lasting." x="126.25" y="388.2799987792969" width="277.6400146484375" height="42" />
+              <frame id="1:2316" name="motion-element → Button" x="166.64999389648438" y="626.5800170898438" width="196.61000061035156" height="48">
+                <frame id="1:2317" name="Container" x="33" y="9" width="130.61000061035156" height="30">
+                  <text id="1:2318" name="Shop Accessories" x="0" y="6" width="130.9112548828125" height="18" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:2319" name="lookbook-card-wrapper" x="1254.8800048828125" y="140" width="529.9400024414062" height="706.5800170898438">
+            <frame id="1:2320" name="Mask Group" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+              <rounded-rectangle id="1:2321" name="Mask" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+              <frame id="1:2322" name="Container" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+                <frame id="1:2323" name="motion-element" x="0" y="0" width="529.9400024414062" height="706.5800170898438">
+                  <frame id="1:2324" name="Hyper Pillar" x="0" y="0" width="529.9400024414062" height="706.5800170898438" />
+                  <frame id="1:2325" name="Overlay" x="234.9600067138672" y="323.2799987792969" width="60" height="60">
+                    <frame id="1:2326" name="SVG" x="18" y="18" width="24" height="24" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2328" name="Button menu - View product list" x="448.8500061035156" y="638.5800170898438" width="61.08000183105469" height="48">
+              <frame id="1:2329" name="Container" x="12" y="9" width="37.08000183105469" height="30">
+                <text id="1:2330" name="3" x="28" y="6" width="9.380999565124512" height="18" />
+                <frame id="1:2331" name="SVG" x="0" y="5" width="20" height="20" />
+              </frame>
+            </frame>
+            <frame id="1:2334" name="lookbook-card" x="162.42999267578125" y="270.67999267578125" width="300" height="360.79998779296875">
+              <frame id="1:2335" name="HorizontalBorder" x="0" y="0" width="300" height="42.400001525878906">
+                <text id="1:2336" name="Heading 3 → The Cult Favorite" x="12.800000190734863" y="12" width="118.2862777709961" height="17.600000381469727" />
+                <frame id="1:2337" name="Button - Close → SVG" x="271.20001220703125" y="12.789999961853027" width="16" height="16" />
+              </frame>
+              <frame id="1:2340" name="Container" x="0" y="42.400001525878906" width="300" height="305.6000061035156">
+                <frame id="1:2341" name="Link - Breezy Hat" x="12.800000190734863" y="12.789999961853027" width="60" height="80">
+                  <rounded-rectangle id="1:2342" name="Mask" x="0" y="0" width="60" height="80" />
+                  <frame id="1:2343" name="Container" x="0" y="0" width="60" height="80">
+                    <frame id="1:2344" name="Breezy Hat" x="0" y="0" width="60" height="80" />
+                  </frame>
+                </frame>
+                <frame id="1:2345" name="Heading 3" x="82.4000015258789" y="33.599998474121094" width="169.60000610351562" height="19.200000762939453">
+                  <text id="1:2346" name="Link → Breezy Hat" x="0" y="2.4000000953674316" width="64.38684844970703" height="14.399999618530273" />
+                </frame>
+                <text id="1:2347" name="$250.00" x="82.4000015258789" y="55.20000076293945" width="47.744998931884766" height="14.399999618530273" />
+                <frame id="1:2348" name="Link - Breezy Hat" x="261.6000061035156" y="40" width="25.600000381469727" height="25.600000381469727">
+                  <frame id="1:2349" name="SVG" x="7.199999809265137" y="7.199999809265137" width="11.199999809265137" height="11.199999809265137" />
+                </frame>
+                <frame id="1:2351" name="HorizontalBorder" x="0" y="105.5999984741211" width="300" height="106.4000015258789">
+                  <frame id="1:2352" name="Link - Breezy Sock" x="12.800000190734863" y="13.600000381469727" width="60" height="80">
+                    <rounded-rectangle id="1:2353" name="Mask" x="0" y="0" width="60" height="80" />
+                    <frame id="1:2354" name="Container" x="0" y="0" width="60" height="80">
+                      <frame id="1:2355" name="Breezy Sock" x="0" y="0" width="60" height="80" />
+                    </frame>
+                  </frame>
+                  <frame id="1:2356" name="Heading 3" x="82.4000015258789" y="34.400001525878906" width="169.60000610351562" height="19.200000762939453">
+                    <text id="1:2357" name="Link → Breezy Sock" x="0" y="2.390000104904175" width="72.8617935180664" height="14.399999618530273" />
+                  </frame>
+                  <text id="1:2358" name="$100.00" x="82.4000015258789" y="56" width="45.2973747253418" height="14.399999618530273" />
+                  <frame id="1:2359" name="Link - Breezy Sock" x="261.6000061035156" y="40.790000915527344" width="25.600000381469727" height="25.600000381469727">
+                    <frame id="1:2360" name="SVG" x="7.199999809265137" y="7.210000038146973" width="11.199999809265137" height="11.199999809265137" />
+                  </frame>
+                </frame>
+                <frame id="1:2362" name="HorizontalBorder" x="0" y="212" width="300" height="93.5999984741211">
+                  <frame id="1:2363" name="Link - Dune Thermal" x="12.800000190734863" y="13.600000381469727" width="60" height="80">
+                    <rounded-rectangle id="1:2364" name="Mask" x="0" y="0" width="60" height="80" />
+                    <frame id="1:2365" name="Container" x="0" y="0" width="60" height="80">
+                      <frame id="1:2366" name="Dune Thermal" x="0" y="0" width="60" height="80" />
+                    </frame>
+                  </frame>
+                  <frame id="1:2367" name="Heading 3" x="82.4000015258789" y="34.290000915527344" width="169.60000610351562" height="19.200000762939453">
+                    <text id="1:2368" name="Link → Dune Thermal" x="0" y="2.4100000858306885" width="81.66553497314453" height="14.399999618530273" />
+                  </frame>
+                  <text id="1:2369" name="$120.00" x="82.4000015258789" y="54.290000915527344" width="44.29425048828125" height="18" />
+                  <text id="1:2370" name="Strikethrough → $145.00" x="132.75999450683594" y="56.099998474121094" width="44.06352996826172" height="14.399999618530273" />
+                  <frame id="1:2371" name="Link - Dune Thermal" x="261.6000061035156" y="40.790000915527344" width="25.600000381469727" height="25.600000381469727">
+                    <frame id="1:2372" name="SVG" x="7.199999809265137" y="7.210000038146973" width="11.199999809265137" height="11.199999809265137" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2374" name="Section" x="0" y="8102.3798828125" width="1920" height="266">
+          <text id="1:2375" name="Heading 2 → motion-element → Explore Popular Search" x="738.7999877929688" y="60" width="442.78240966796875" height="48" />
+          <frame id="1:2376" name="button-list" x="135" y="140" width="1650" height="66">
+            <frame id="1:2377" name="Group - 1 / 9 → Link" x="0" y="0" width="215.72000122070312" height="66">
+              <frame id="1:2378" name="Container" x="9" y="9" width="185.72000122070312" height="48">
+                <text id="1:2379" name="Eco knit Cardigan" x="56" y="9" width="130.0205535888672" height="30" />
+                <frame id="1:2380" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2381" name="Light blue crew socks with a white palm tree print" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2382" name="Group - 2 / 9 → Link" x="227.72000122070312" y="0" width="225.30999755859375" height="66">
+              <frame id="1:2383" name="Container" x="9" y="9" width="195.30999755859375" height="48">
+                <text id="1:2384" name="Cashmere Sweater" x="56" y="9" width="139.6180419921875" height="30" />
+                <frame id="1:2385" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2386" name="Mauve pullover hoodie" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2387" name="Group - 3 / 9 → Link" x="465.0299987792969" y="0" width="207.0800018310547" height="66">
+              <frame id="1:2388" name="Container" x="9" y="9" width="177.0800018310547" height="48">
+                <text id="1:2389" name="Dresses &amp; Skirts" x="56" y="9" width="121.46762084960938" height="30" />
+                <frame id="1:2390" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2391" name="Mustard cable-knit crewneck sweater" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2392" name="Group - 4 / 9 → Link" x="684.1099853515625" y="0" width="184.9199981689453" height="66">
+              <frame id="1:2393" name="Container" x="9" y="9" width="154.9199981689453" height="48">
+                <text id="1:2394" name="Cold Weather" x="56" y="9" width="99.27300262451172" height="30" />
+                <frame id="1:2395" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2396" name="Green plaid trucker jacket with a cream sherpa collar" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2397" name="Group - 5 / 9 → Link" x="881.030029296875" y="0" width="184.9199981689453" height="66">
+              <frame id="1:2398" name="Container" x="9" y="9" width="154.9199981689453" height="48">
+                <text id="1:2399" name="Cold Weather" x="56" y="9" width="99.27300262451172" height="30" />
+                <frame id="1:2400" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2401" name="Green speckled ribbed beanie" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2402" name="Group - 6 / 9 → Link" x="1077.949951171875" y="0" width="175.27999877929688" height="66">
+              <frame id="1:2403" name="Container" x="9" y="9" width="145.27999877929688" height="48">
+                <text id="1:2404" name="Accessories" x="56" y="9" width="89.6179428100586" height="30" />
+                <frame id="1:2405" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2406" name="Tan corduroy cap with a palm tree embroidery reading No Problemo" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2407" name="Group - 7 / 9 → Link" x="1265.22998046875" y="0" width="191.4199981689453" height="66">
+              <frame id="1:2408" name="Container" x="9" y="9" width="161.4199981689453" height="48">
+                <text id="1:2409" name="Fleece Jackets" x="56" y="9" width="105.78315734863281" height="30" />
+                <frame id="1:2410" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2411" name="Rust orange quilted down shirt jacket" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2412" name="Group - 8 / 9 → Link" x="1468.6600341796875" y="0" width="135.22999572753906" height="66">
+              <frame id="1:2413" name="Container" x="9" y="9" width="105.2300033569336" height="48">
+                <text id="1:2414" name="Shorts" x="56" y="9" width="49.580718994140625" height="30" />
+                <frame id="1:2415" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2416" name="Blue patterned board shorts" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2417" name="Group - 9 / 9 → Link" x="1615.8900146484375" y="0" width="180.27999877929688" height="66">
+              <frame id="1:2418" name="Container" x="9" y="9" width="150.27999877929688" height="48">
+                <frame id="1:2419" name="Picture" x="0" y="0" width="48" height="48">
+                  <frame id="1:2420" name="Charcoal graphic tee" x="0" y="0" width="48" height="48" />
+                </frame>
+              </frame>
+            </frame>
+            <rounded-rectangle id="1:2421" name="Gradient" x="1608" y="0" width="70" height="66" />
+          </frame>
+        </frame>
+        <frame id="1:2422" name="Background" x="0" y="8368.3798828125" width="1920" height="858.6599731445312">
+          <text id="1:2423" name="motion-element → Shop This Look" x="416.0199890136719" y="103.54000091552734" width="128.34835815429688" height="19" />
+          <text id="1:2424" name="Heading 2 → motion-element → Iconic Autumn Set" x="307.2699890136719" y="138.4499969482422" width="345.8045654296875" height="48" />
+          <frame id="1:2425" name="products-bundle" x="100" y="218.4499969482422" width="760" height="538.6599731445312">
+            <frame id="1:2426" name="products-bundle-slider" x="0" y="0" width="760" height="458.6600036621094">
+              <frame id="1:2427" name="product-bundle-variant-selector" x="0" y="0" width="248" height="458.6600036621094">
+                <frame id="1:2428" name="Container" x="12" y="12" width="224" height="298.6600036621094">
+                  <frame id="1:2429" name="Link - Trendy Pants → motion-element → Trendy Pants" x="0" y="0" width="224" height="298.6600036621094" />
+                </frame>
+                <text id="1:2430" name="Link - Type:Pants → Pants" x="12" y="325.6499938964844" width="39.960750579833984" height="14" />
+                <text id="1:2431" name="Heading 3 → Link → Trendy Pants" x="12" y="349.6499938964844" width="97.01948547363281" height="18" />
+                <text id="1:2432" name="$100.00" x="12" y="377.6499938964844" width="56.57250213623047" height="18" />
+                <frame id="1:2433" name="select-element" x="13" y="407.6499938964844" width="222" height="38">
+                  <frame id="1:2434" name="Options - Select variant" x="0" y="0" width="222" height="38">
+                    <text id="1:2435" name="Beige / XS" x="21" y="1" width="71.8402099609375" height="36" />
+                  </frame>
+                  <frame id="1:2436" name="SVG" x="194" y="13" width="12" height="12" />
+                </frame>
+              </frame>
+              <frame id="1:2438" name="product-bundle-variant-selector" x="256" y="0" width="248" height="458.6600036621094">
+                <frame id="1:2439" name="Container" x="12" y="12" width="224" height="298.6600036621094">
+                  <frame id="1:2440" name="Link - Timber Flannel → motion-element → Timber Flannel" x="0" y="0" width="224" height="298.6600036621094" />
+                </frame>
+                <text id="1:2441" name="Link - Type:Flannel → Flannel" x="12" y="325.6499938964844" width="54.526126861572266" height="14" />
+                <text id="1:2442" name="Heading 3 → Link → Timber Flannel" x="12" y="349.6499938964844" width="108.91804504394531" height="18" />
+                <text id="1:2443" name="$100.00" x="12" y="377.6499938964844" width="56.57250213623047" height="18" />
+                <frame id="1:2444" name="select-element" x="13" y="407.6499938964844" width="222" height="38">
+                  <frame id="1:2445" name="Options - Select variant" x="0" y="0" width="222" height="38">
+                    <text id="1:2446" name="Bronze / XS" x="21" y="1" width="82.35661315917969" height="36" />
+                  </frame>
+                  <frame id="1:2447" name="SVG" x="194" y="13" width="12" height="12" />
+                </frame>
+              </frame>
+              <frame id="1:2449" name="product-bundle-variant-selector" x="512" y="0" width="248" height="458.6600036621094">
+                <frame id="1:2450" name="Container" x="12" y="12" width="224" height="298.6600036621094">
+                  <frame id="1:2451" name="Link - Tee Drop Rhymes → motion-element → Tee Drop Rhymes" x="0" y="0" width="224" height="298.6600036621094" />
+                </frame>
+                <text id="1:2452" name="Link - Type:T-Shirts → T-Shirts" x="12" y="325.6499938964844" width="53.282249450683594" height="14" />
+                <text id="1:2453" name="Heading 3 → Link → Tee Drop Rhymes" x="12" y="349.6499938964844" width="127.61721801757812" height="18" />
+                <text id="1:2454" name="$109.99" x="12" y="377.6499938964844" width="56.04084396362305" height="18" />
+                <frame id="1:2455" name="select-element" x="13" y="407.6499938964844" width="222" height="38">
+                  <frame id="1:2456" name="Options - Select variant" x="0" y="0" width="222" height="38">
+                    <text id="1:2457" name="White / XS" x="21" y="1" width="73.72314453125" height="36" />
+                  </frame>
+                  <frame id="1:2458" name="SVG" x="194" y="13" width="12" height="12" />
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:2460" name="motion-element → Button" x="293.6400146484375" y="490.6499938964844" width="172.72000122070312" height="48">
+              <frame id="1:2461" name="Container" x="33" y="9" width="106.72000122070312" height="30">
+                <text id="1:2462" name="Add all to cart" x="0" y="6" width="107.0851821899414" height="18" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:2463" name="Container" x="960" y="0" width="960" height="858.6599731445312">
+            <frame id="1:2464" name="Overlay" x="0" y="0" width="960" height="858.6599731445312">
+              <frame id="1:2465" name="motion-element → Picture → Man in a blue plaid sherpa-lined shirt jacket and white tee on a coastal trail" x="0" y="0" width="960" height="858.6599731445312" />
+            </frame>
+            <frame id="1:2466" name="products-bundle-hotspot → motion-element" x="358.7900085449219" y="712.2100219726562" width="40" height="40">
+              <rounded-rectangle id="1:2467" name="Overlay+Border" x="0.009999999776482582" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:2468" name="Overlay" x="6.679999828338623" y="6.679999828338623" width="26.65999984741211" height="26.65999984741211" />
+              <frame id="1:2469" name="Background+Shadow" x="13.329999923706055" y="13.329999923706055" width="13.329999923706055" height="13.329999923706055" />
+            </frame>
+            <frame id="1:2470" name="products-bundle-hotspot → motion-element" x="533.5999755859375" y="491.17999267578125" width="40" height="40">
+              <rounded-rectangle id="1:2471" name="Overlay+Border" x="-0.009999999776482582" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:2472" name="Overlay" x="6.670000076293945" y="6.670000076293945" width="26.65999984741211" height="26.65999984741211" />
+              <frame id="1:2473" name="Background+Shadow" x="13.329999923706055" y="13.329999923706055" width="13.329999923706055" height="13.329999923706055" />
+            </frame>
+            <frame id="1:2474" name="products-bundle-hotspot → motion-element" x="414" y="368.3900146484375" width="40" height="40">
+              <rounded-rectangle id="1:2475" name="Overlay+Border" x="0" y="0" width="40" height="40" />
+              <rounded-rectangle id="1:2476" name="Overlay" x="6.670000076293945" y="6.670000076293945" width="26.65999984741211" height="26.65999984741211" />
+              <frame id="1:2477" name="Background+Shadow" x="13.329999923706055" y="13.319999694824219" width="13.329999923706055" height="13.329999923706055" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2478" name="Background" x="0" y="9227.0302734375" width="1920" height="260.4100036621094">
+          <text id="1:2479" name="motion-element → Shop By Brands" x="891.0900268554688" y="62" width="138.10687255859375" height="19" />
+          <frame id="1:2480" name="Link → motion-element → Blanca logo" x="399.1600036621094" y="128.91000366210938" width="130" height="71.5" />
+          <frame id="1:2481" name="Link → motion-element → Libreria logo" x="597.47998046875" y="128.91000366210938" width="130" height="71.5" />
+          <frame id="1:2482" name="Link → motion-element → Lalibu logo" x="795.8099975585938" y="128.91000366210938" width="130" height="71.5" />
+          <frame id="1:2483" name="Link → motion-element → Olivea logo" x="994.1599731445312" y="128.91000366210938" width="130" height="71.5" />
+          <frame id="1:2484" name="Link → motion-element → Amore logo" x="1192.47998046875" y="128.91000366210938" width="130" height="71.5" />
+          <frame id="1:2485" name="Link → motion-element → Avocado logo" x="1390.81005859375" y="128.91000366210938" width="130" height="71.5" />
+        </frame>
+        <frame id="1:2486" name="Section" x="0" y="9487.4404296875" width="1920" height="337.5">
+          <rounded-rectangle id="1:2487" name="Horizontal Divider" x="0" y="0" width="1920" height="1" />
+          <frame id="1:2488" name="Background" x="0" y="1" width="1920" height="336.5">
+            <frame id="1:2489" name="multicolumn-icon" x="135" y="60" width="1650" height="216.5">
+              <frame id="1:2490" name="Background" x="0" y="0" width="530" height="216.5">
+                <frame id="1:2491" name="motion-element → Picture → Free Shipping" x="235" y="0" width="60" height="60" />
+                <text id="1:2492" name="Heading 3 → Free Shipping" x="191.6300048828125" y="80" width="147.06385803222656" height="32" />
+                <text id="1:2493" name="All orders over $120 are delivered to your doorstep at no extra charge." x="118.9800033569336" y="127" width="292.2200012207031" height="42" />
+                <frame id="1:2494" name="Link" x="208.55999755859375" y="192" width="112.86000061035156" height="24">
+                  <text id="1:2495" name="Explore Now" x="0" y="0" width="93.20352935791016" height="24" />
+                  <frame id="1:2496" name="SVG" x="96.86000061035156" y="4" width="16" height="16" />
+                </frame>
+              </frame>
+              <frame id="1:2498" name="Background" x="560" y="0" width="530" height="216.5">
+                <frame id="1:2499" name="motion-element → Picture → 30-Days Free Returns" x="235" y="0" width="60" height="60.5" />
+                <text id="1:2500" name="Heading 3 → 30-Days Free Returns" x="149.8000030517578" y="80.5" width="230.7892303466797" height="32" />
+                <text id="1:2501" name="Enjoy the freedom of stress-free shopping with our hassle-free and return policy." x="113.75" y="127.5" width="302.67999267578125" height="42" />
+                <frame id="1:2502" name="Link" x="206" y="192.5" width="117.9800033569336" height="24">
+                  <text id="1:2503" name="Return Policy" x="0" y="0" width="98.33153533935547" height="24" />
+                  <frame id="1:2504" name="SVG" x="101.9800033569336" y="4" width="16" height="16" />
+                </frame>
+              </frame>
+              <frame id="1:2506" name="Background" x="1120" y="0" width="530" height="216.5">
+                <frame id="1:2507" name="motion-element → Picture → Secure Payment" x="235" y="0" width="60" height="60" />
+                <text id="1:2508" name="Heading 3 → Secure Payment" x="177.41000366210938" y="80" width="175.52609252929688" height="32" />
+                <text id="1:2509" name="Shop with confidence knowing your payments are secure and your information" x="112.19000244140625" y="127" width="305.80999755859375" height="42" />
+                <frame id="1:2510" name="Link" x="177.4199981689453" y="192" width="175.13999938964844" height="24">
+                  <text id="1:2511" name="More About Payment" x="0" y="0" width="155.46041870117188" height="24" />
+                  <frame id="1:2512" name="SVG" x="159.13999938964844" y="4" width="16" height="16" />
+                </frame>
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2514" name="Section" x="0" y="9824.9404296875" width="1920" height="216">
+          <frame id="1:2515" name="Heading 2 → motion-element" x="390" y="60" width="500" height="96">
+            <text id="1:2516" name="Sign up for promotion, offers &amp;" x="0" y="0" width="421.4700012207031" height="96" />
+            <frame id="1:2517" name="Emphasis" x="162.9499969482422" y="48" width="171.72999572753906" height="48">
+              <text id="1:2518" name="save 15%" x="0" y="0" width="172.06336975097656" height="48" />
+              <frame id="1:2519" name="Frame" x="-12.880000114440918" y="-16.31999969482422" width="197.47999572753906" height="76.79534149169922" />
+            </frame>
+          </frame>
+          <frame id="1:2521" name="motion-element" x="965" y="64" width="565" height="88">
+            <frame id="1:2522" name="Form" x="0" y="0" width="565" height="48">
+              <frame id="1:2523" name="Input" x="0" y="0" width="434.79998779296875" height="48">
+                <frame id="1:2524" name="Container" x="20" y="15" width="394.79998779296875" height="18">
+                  <text id="1:2525" name="Enter your email" x="0" y="0" width="117.63163757324219" height="18" />
+                </frame>
+              </frame>
+              <frame id="1:2526" name="Button" x="442.79998779296875" y="0" width="122.19999694824219" height="48">
+                <frame id="1:2527" name="Container" x="33" y="9" width="56.20000076293945" height="30">
+                  <text id="1:2528" name="Sign up" x="0" y="6" width="56.57250213623047" height="18" />
+                </frame>
+              </frame>
+            </frame>
+            <text id="1:2529" name="By subscribing you agree to the Terms of Use &amp; Privacy Policy." x="0" y="67" width="445.56353759765625" height="18" />
+          </frame>
+        </frame>
+        <frame id="1:2530" name="Background" x="0" y="10040.9404296875" width="1920" height="664">
+          <text id="1:2531" name="Heading 2 → motion-element → We’re on Gram" x="135" y="60" width="275.537109375" height="48" />
+          <frame id="1:2532" name="motion-element → Link" x="1669.22998046875" y="71" width="115.7699966430664" height="26">
+            <text id="1:2533" name="@mason.studio" x="0" y="0" width="116.14933013916016" height="24" />
+            <rounded-rectangle id="1:2534" name="Horizontal Divider" x="0" y="25" width="115.7699966430664" height="1" />
+          </frame>
+          <frame id="1:2535" name="scrolling-promotion" x="0" y="140" width="1920" height="444">
+            <frame id="1:2536" name="Mask Group" x="15" y="0" width="384" height="444">
+              <rounded-rectangle id="1:2537" name="Mask" x="0" y="0" width="384" height="444" />
+              <frame id="1:2538" name="Background" x="0" y="0" width="384" height="444">
+                <frame id="1:2539" name="motion-element → Picture → Curly-haired man in a green and white striped camp shirt among palm fronds" x="0" y="0" width="384" height="384" />
+                <frame id="1:2540" name="motion-element → Picture" x="16" y="394" width="40" height="40">
+                  <frame id="1:2541" name="Portrait of a smiling grey-haired man in a light blue shirt" x="0" y="0" width="40" height="40" />
+                </frame>
+                <text id="1:2542" name="thisisaaccount" x="64" y="402" width="105.63291931152344" height="24" />
+                <frame id="1:2543" name="Frame" x="344" y="402" width="24" height="24" />
+              </frame>
+            </frame>
+            <frame id="1:2545" name="Mask Group" x="429" y="0" width="384" height="444">
+              <rounded-rectangle id="1:2546" name="Mask" x="0" y="0" width="384" height="444" />
+              <frame id="1:2547" name="Background" x="0" y="0" width="384" height="444">
+                <frame id="1:2548" name="motion-element → Picture → Two men in a beanie sweatshirt and a blue plaid shirt looking out over the ocean" x="0" y="0" width="384" height="384" />
+                <frame id="1:2549" name="motion-element → Picture" x="16" y="394" width="40" height="40">
+                  <frame id="1:2550" name="Portrait of a smiling grey-haired man in a light blue shirt" x="0" y="0" width="40" height="40" />
+                </frame>
+                <text id="1:2551" name="thisisaaccount" x="64" y="402" width="105.63291931152344" height="24" />
+                <frame id="1:2552" name="Frame" x="344" y="402" width="24" height="24" />
+              </frame>
+            </frame>
+            <frame id="1:2554" name="Mask Group" x="843" y="0" width="384" height="444">
+              <rounded-rectangle id="1:2555" name="Mask" x="0" y="0" width="384" height="444" />
+              <frame id="1:2556" name="Background" x="0" y="0" width="384" height="444">
+                <frame id="1:2557" name="motion-element → Picture → Rust and black mesh trucker cap with a logo patch hung on a car mirror" x="0" y="0" width="384" height="384" />
+                <frame id="1:2558" name="motion-element → Picture" x="16" y="394" width="40" height="40">
+                  <frame id="1:2559" name="Portrait of a woman framed by white sheer curtains" x="0" y="0" width="40" height="40" />
+                </frame>
+                <text id="1:2560" name="furniturelover" x="64" y="402" width="99.0125961303711" height="24" />
+                <frame id="1:2561" name="Frame" x="344" y="402" width="24" height="24" />
+              </frame>
+            </frame>
+            <frame id="1:2563" name="Mask Group" x="1257" y="0" width="384" height="444">
+              <rounded-rectangle id="1:2564" name="Mask" x="0" y="0" width="384" height="444" />
+              <frame id="1:2565" name="Background" x="0" y="0" width="384" height="444">
+                <frame id="1:2566" name="motion-element → Picture → Faded orange tee with a palm and sunset back graphic hanging on a chain-link fence" x="0" y="0" width="384" height="384" />
+                <frame id="1:2567" name="motion-element → Picture" x="16" y="394" width="40" height="40">
+                  <frame id="1:2568" name="Portrait of a smiling bearded man in a blue tee" x="0" y="0" width="40" height="40" />
+                </frame>
+                <text id="1:2569" name="baddyjam" x="64" y="402" width="71.639892578125" height="24" />
+                <frame id="1:2570" name="Frame" x="344" y="402" width="24" height="24" />
+              </frame>
+            </frame>
+            <frame id="1:2572" name="Mask Group" x="1671" y="0" width="384" height="444">
+              <rounded-rectangle id="1:2573" name="Mask" x="0" y="0" width="384" height="444" />
+              <frame id="1:2574" name="Background" x="0" y="0" width="384" height="444">
+                <frame id="1:2575" name="motion-element → Picture → Man in dark rinse jeans and a white tee sitting barefoot on a yellow bench on the sand" x="0" y="0" width="384" height="384" />
+                <frame id="1:2576" name="motion-element → Picture" x="16" y="394" width="40" height="40">
+                  <frame id="1:2577" name="Black and white portrait of a young woman with her hair in a bun" x="0" y="0" width="40" height="40" />
+                </frame>
+                <text id="1:2578" name="liamwealthy" x="64" y="402" width="87.10401916503906" height="24" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:2579" name="Section - sections: footer-group" x="0" y="10884.9404296875" width="1920" height="116">
+        <frame id="1:2580" name="multicolumn-icon" x="135" y="32" width="1650" height="52">
+          <frame id="1:2581" name="Background" x="0" y="0" width="375" height="52">
+            <frame id="1:2582" name="motion-element → SVG" x="0" y="0" width="28" height="28" />
+            <text id="1:2587" name="Heading 3 → Customer Service" x="40" y="0" width="130.9412841796875" height="24" />
+            <text id="1:2588" name="Mon-Sat, 9am-6pm EST." x="40" y="28" width="169.9617462158203" height="24" />
+          </frame>
+          <rounded-rectangle id="1:2589" name="Vertical Divider" x="399" y="0" width="1" height="52" />
+          <frame id="1:2590" name="Background" x="425" y="0" width="375" height="52">
+            <frame id="1:2591" name="motion-element → SVG" x="0" y="0" width="28" height="28" />
+            <text id="1:2593" name="Heading 3 → Call Us" x="40" y="0" width="50.022090911865234" height="24" />
+            <text id="1:2594" name="+1 888-234-1234 (tool-free)" x="40" y="28" width="187.0050506591797" height="24" />
+          </frame>
+          <rounded-rectangle id="1:2595" name="Vertical Divider" x="824" y="0" width="1" height="52" />
+          <frame id="1:2596" name="Background" x="850" y="0" width="375" height="52">
+            <frame id="1:2597" name="motion-element → SVG" x="0" y="0" width="28" height="28" />
+            <text id="1:2600" name="Heading 3 → Get in Touch" x="40" y="0" width="90.21887969970703" height="24" />
+            <text id="1:2601" name="Link → touch@masonstore.com" x="40" y="31" width="175.44601440429688" height="18" />
+          </frame>
+          <rounded-rectangle id="1:2602" name="Vertical Divider" x="1249" y="0" width="1" height="52" />
+          <frame id="1:2603" name="Background" x="1275" y="0" width="375" height="52">
+            <frame id="1:2604" name="motion-element → SVG" x="0" y="0" width="32" height="32" />
+            <text id="1:2607" name="Heading 3 → Address" x="44" y="0" width="61.44768524169922" height="24" />
+            <text id="1:2608" name="382 NE 191st St # 87394 Miami" x="44" y="28" width="215.88758850097656" height="24" />
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:2609" name="Footer" x="0" y="11000.9404296875" width="1920" height="473">
+        <rounded-rectangle id="1:2610" name="Horizontal Divider" x="135" y="0" width="1650" height="1" />
+        <frame id="1:2611" name="motion-element" x="135" y="41" width="170" height="200.5">
+          <rounded-rectangle id="1:2612" name="Picture:mask" x="0" y="0" width="170" height="200.5" />
+          <frame id="1:2613" name="Picture" x="0" y="0" width="170" height="200.5">
+            <frame id="1:2614" name="Footer Image" x="0" y="0" width="170" height="200.5" />
+          </frame>
+        </frame>
+        <text id="1:2615" name="Heading 3 → Find one of our
+11 stores nearest you." x="329" y="76.25" width="224.9499969482422" height="58" />
+        <frame id="1:2616" name="Link" x="329" y="161.25" width="155.33999633789062" height="48">
+          <frame id="1:2617" name="Container" x="33" y="9" width="89.33999633789062" height="30">
+            <text id="1:2618" name="Find A Store" x="0" y="6" width="89.67803192138672" height="18" />
+          </frame>
+        </frame>
+        <frame id="1:2619" name="Details" x="1023" y="41" width="234" height="191">
+          <frame id="1:2620" name="Slot → Summary" x="0" y="0" width="234" height="39">
+            <text id="1:2621" name="Heading 3 → Company" x="0" y="0" width="75.17540740966797" height="26" />
+          </frame>
+          <frame id="1:2622" name="Slot → List" x="0" y="39" width="234" height="152">
+            <text id="1:2623" name="Item → Link → Our Story" x="0" y="3" width="69.19607543945312" height="18" />
+            <text id="1:2624" name="Item → Link → Contact" x="0" y="35" width="56.82328414916992" height="18" />
+            <text id="1:2625" name="Item → Link → FAQs" x="0" y="67" width="36.90121841430664" height="18" />
+            <text id="1:2626" name="Item → Link → Blog" x="0" y="99" width="32.11199951171875" height="18" />
+            <text id="1:2627" name="Item → Link → Find a Store" x="0" y="131" width="86.10245513916016" height="18" />
+          </frame>
+        </frame>
+        <frame id="1:2628" name="Details" x="1287" y="41" width="234" height="223">
+          <frame id="1:2629" name="Slot → Summary" x="0" y="0" width="234" height="39">
+            <text id="1:2630" name="Heading 3 → Collection" x="0" y="0" width="78.60075378417969" height="26" />
+          </frame>
+          <frame id="1:2631" name="Slot → List" x="0" y="39" width="234" height="184">
+            <text id="1:2632" name="Item → Link → Just Dropped" x="0" y="3" width="94.09491729736328" height="18" />
+            <text id="1:2633" name="Item → Link → Best Sellers" x="0" y="35" width="85.00074005126953" height="18" />
+            <text id="1:2634" name="Item → Link → Clothing" x="0" y="67" width="59.97309494018555" height="18" />
+            <text id="1:2635" name="Item → Link → Pants" x="0" y="99" width="41.01403045654297" height="18" />
+            <text id="1:2636" name="Item → Link → Shirts" x="0" y="131" width="43.21087646484375" height="18" />
+            <text id="1:2637" name="Item → Link → Jeans" x="0" y="163" width="39.87046813964844" height="18" />
+          </frame>
+        </frame>
+        <frame id="1:2638" name="Details" x="1551" y="41" width="234" height="191">
+          <frame id="1:2639" name="Slot → Summary" x="0" y="0" width="234" height="39">
+            <text id="1:2640" name="Heading 3 → Get Help" x="0" y="0" width="66.47183227539062" height="26" />
+          </frame>
+          <frame id="1:2641" name="Slot → List" x="0" y="39" width="234" height="152">
+            <text id="1:2642" name="Item → Link → Help Center" x="0" y="3" width="84.37976837158203" height="18" />
+            <text id="1:2643" name="Item → Link → Live Chat" x="0" y="35" width="65.46025085449219" height="18" />
+            <text id="1:2644" name="Item → Link → Return Policy" x="0" y="67" width="95.76753234863281" height="18" />
+            <text id="1:2645" name="Item → Link → Shipping Info" x="0" y="99" width="94.9863052368164" height="18" />
+            <text id="1:2646" name="Item → Link → Bulk Orders" x="0" y="131" width="84.04924774169922" height="18" />
+          </frame>
+        </frame>
+        <frame id="1:2647" name="List" x="130" y="348" width="288" height="34">
+          <frame id="1:2648" name="Item → Visa" x="5" y="5" width="38" height="24">
+            <frame id="1:2649" name="visa-b614b878.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+          <frame id="1:2654" name="Item → Master" x="53" y="5" width="38" height="24">
+            <frame id="1:2655" name="master-f5a74105.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+          <frame id="1:2662" name="Item → American express" x="101" y="5" width="38" height="24">
+            <frame id="1:2663" name="american_express-2bdbf0e2.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+          <frame id="1:2668" name="Item → Paypal" x="149" y="5" width="38" height="24">
+            <frame id="1:2669" name="paypal-a7c68b85.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+          <frame id="1:2675" name="Item → Diners club" x="197" y="5" width="38" height="24">
+            <frame id="1:2676" name="diners_club-678e3046.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+          <frame id="1:2680" name="Item → Discover" x="245" y="5" width="38" height="24">
+            <frame id="1:2681" name="discover-59880595.svg" x="0" y="0" width="38" height="24" />
+          </frame>
+        </frame>
+        <frame id="1:2690" name="localization-form → Form → Button" x="135" y="304" width="201.52000427246094" height="24">
+          <frame id="1:2691" name="Background" x="0" y="2" width="20" height="20">
+            <frame id="1:2692" name="us.svg clip" x="0" y="0" width="20" height="20">
+              <frame id="1:2693" name="us.svg" x="-3.3333332538604736" y="0" width="26.66666603088379" height="20" />
+            </frame>
+            <rounded-rectangle id="1:2703" name="Overlay+Shadow" x="0" y="0" width="20" height="20" />
+          </frame>
+          <text id="1:2704" name="United States (USD $)" x="28" y="3" width="153.8391571044922" height="18" />
+          <frame id="1:2705" name="SVG" x="189.52000427246094" y="6" width="12" height="12" />
+        </frame>
+        <frame id="1:2707" name="List" x="1497" y="329" width="288" height="48">
+          <frame id="1:2708" name="Item → Link" x="0" y="0" width="48" height="48">
+            <frame id="1:2709" name="Frame" x="12" y="12" width="24" height="24" />
+          </frame>
+          <frame id="1:2711" name="Item → Link" x="60" y="0" width="48" height="48">
+            <frame id="1:2712" name="Frame" x="12" y="12" width="24" height="24" />
+          </frame>
+          <frame id="1:2714" name="Item → Link" x="120" y="0" width="48" height="48">
+            <frame id="1:2715" name="Frame" x="12" y="12" width="24" height="24" />
+          </frame>
+          <frame id="1:2717" name="Item → Link" x="180" y="0" width="48" height="48">
+            <frame id="1:2718" name="Frame" x="12" y="12" width="24" height="24" />
+          </frame>
+          <frame id="1:2720" name="Item → Link" x="240" y="0" width="48" height="48">
+            <frame id="1:2721" name="Frame" x="12" y="12" width="24" height="24" />
+          </frame>
+        </frame>
+        <text id="1:2723" name="© 2026 Hyper Pillar. Powered by Shopify" x="135" y="412" width="290.983154296875" height="18" />
+        <frame id="1:2724" name="List" x="1426.6400146484375" y="409" width="358.3599853515625" height="24">
+          <text id="1:2725" name="Item → Link → Accessibility" x="0" y="3" width="91.03014373779297" height="18" />
+          <text id="1:2726" name="Item → Link → Terms of Service" x="114.69000244140625" y="3" width="119.90518951416016" height="18" />
+          <text id="1:2727" name="Item → Link → Privacy Policy" x="258.20001220703125" y="3" width="100.51493835449219" height="18" />
+        </frame>
+      </frame>
+      <frame id="1:2728" name="Container" x="0" y="48" width="1920" height="132">
+        <frame id="1:2729" name="Header" x="0" y="0" width="1920" height="132">
+          <frame id="1:2730" name="Background" x="0" y="88" width="1920" height="44">
+            <frame id="1:2731" name="Navigation - Primary → List" x="119" y="0" width="1053.969970703125" height="32">
+              <frame id="1:2732" name="Item → Details → Slot → Summary" x="16" y="4" width="163.05999755859375" height="24">
+                <text id="1:2733" name="Shop By Categories" x="0" y="3" width="143.3709716796875" height="18" />
+                <frame id="1:2734" name="SVG" x="151.05999755859375" y="6" width="12" height="12" />
+              </frame>
+              <frame id="1:2736" name="Item → Details → Slot → Summary" x="211.05999755859375" y="4" width="113.63999938964844" height="24">
+                <text id="1:2737" name="New Arrivals" x="0" y="3" width="93.98474884033203" height="18" />
+                <frame id="1:2738" name="SVG" x="101.63999938964844" y="6" width="12" height="12" />
+              </frame>
+              <frame id="1:2740" name="Item → Details → Slot → Summary" x="356.70001220703125" y="4" width="101.63999938964844" height="24">
+                <text id="1:2741" name="Collections" x="0" y="3" width="81.96599578857422" height="18" />
+                <frame id="1:2742" name="SVG" x="89.63999938964844" y="6" width="12" height="12" />
+              </frame>
+              <frame id="1:2744" name="Item → Details → Slot → Summary" x="709.0499877929688" y="4" width="64.08999633789062" height="24">
+                <text id="1:2745" name="Pages" x="0" y="3" width="44.42465591430664" height="18" />
+                <frame id="1:2746" name="SVG" x="52.09000015258789" y="6" width="12" height="12" />
+              </frame>
+              <frame id="1:2748" name="Item → Details → Slot → Summary" x="805.1400146484375" y="4" width="137.8800048828125" height="24">
+                <text id="1:2749" name="Theme Features" x="0" y="3" width="118.26262664794922" height="18" />
+                <frame id="1:2750" name="SVG" x="125.87999725341797" y="6" width="12" height="12" />
+              </frame>
+              <text id="1:2752" name="Item → Link → The Gifts" x="490.3399963378906" y="4" width="65.72065734863281" height="24" />
+              <text id="1:2753" name="Item → Link → Accessories" x="587.77001953125" y="4" width="89.6179428100586" height="24" />
+              <frame id="1:2754" name="Item → Link" x="975.02001953125" y="4" width="62.95000076293945" height="24">
+                <text id="1:2755" name="ON SALE" x="0" y="3" width="63.34359359741211" height="18" />
+                <frame id="1:2756" name="Mask Group" x="0" y="21.59000015258789" width="62.95000076293945" height="8">
+                  <frame id="1:2757" name="Mask" x="0" y="0" width="62.95000076293945" height="8">
+                    <frame id="1:2758" name="image" x="0" y="0" width="66" height="8" />
+                  </frame>
+                  <rounded-rectangle id="1:2760" name="Background" x="0" y="0" width="62.95000076293945" height="8" />
+                </frame>
+              </frame>
+            </frame>
+            <rounded-rectangle id="1:2761" name="Background" x="0" y="0" width="1920" height="44" />
+          </frame>
+          <frame id="1:2762" name="Background" x="0" y="0" width="1920" height="88">
+            <frame id="1:2763" name="Heading 1 → Link → Pillar logo" x="135" y="26.5" width="110" height="35" />
+            <frame id="1:2764" name="Link - Find a Store" x="1422.6099853515625" y="32" width="117.7699966430664" height="24">
+              <frame id="1:2765" name="SVG" x="0" y="0" width="24" height="24" />
+              <text id="1:2768" name="Find a Store" x="32" y="0" width="86.10245513916016" height="24" />
+            </frame>
+            <frame id="1:2769" name="shopify-account → Button dialog::part(signed-out-avatar) - Account → Slot → Account" x="1564.3800048828125" y="32" width="148.6300048828125" height="24">
+              <frame id="1:2770" name="SVG" x="0" y="0" width="24" height="24" />
+              <text id="1:2773" name="Sign in/ Register" x="32" y="0" width="117.01067352294922" height="24" />
+            </frame>
+            <frame id="1:2774" name="Link" x="1737" y="20" width="48" height="48">
+              <frame id="1:2775" name="SVG" x="12" y="12" width="24" height="24" />
+            </frame>
+            <frame id="1:2778" name="predictive-search → Search" x="275" y="20" width="630" height="48">
+              <frame id="1:2779" name="Combobox listbox" x="0" y="0" width="630" height="48">
+                <frame id="1:2780" name="Container" x="184" y="15" width="392" height="18">
+                  <text id="1:2781" name="What are you looking for?" x="0" y="0" width="182.2313232421875" height="18" />
+                </frame>
+              </frame>
+              <text id="1:2782" name="Options - Search type → All Categories" x="24" y="0" width="100.1944351196289" height="48" />
+              <frame id="1:2783" name="SVG" x="132" y="18" width="12" height="12" />
+              <rounded-rectangle id="1:2785" name="Vertical Divider" x="163" y="10" width="1" height="28" />
+              <frame id="1:2786" name="Button - Search → SVG" x="590" y="12" width="24" height="24" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+      <frame id="1:2789" name="sections: header-group" x="0" y="0" width="1920" height="48">
+        <frame id="1:2790" name="List" x="135" y="12" width="266.2699890136719" height="24">
+          <text id="1:2791" name="Item → Link → Help Center" x="0" y="0" width="84.37976837158203" height="24" />
+          <text id="1:2792" name="Item → Link → Find a Store" x="104.05000305175781" y="0" width="86.10245513916016" height="24" />
+          <text id="1:2793" name="Item → Link → Contact" x="209.80999755859375" y="0" width="56.82328414916992" height="24" />
+        </frame>
+        <text id="1:2794" name="✌🏼 Free Express Shipping on orders $120!" x="808.1699829101562" y="12" width="295.945068359375" height="24" />
+        <frame id="1:2795" name="localization-form → Form → Button" x="1443.47998046875" y="14" width="201.52000427246094" height="20">
+          <frame id="1:2796" name="Background" x="0" y="0" width="20" height="20">
+            <frame id="1:2797" name="us.svg clip" x="0" y="0" width="20" height="20">
+              <frame id="1:2798" name="us.svg" x="-3.3333332538604736" y="0" width="26.66666603088379" height="20" />
+            </frame>
+            <rounded-rectangle id="1:2808" name="Overlay+Shadow" x="0" y="0" width="20" height="20" />
+          </frame>
+          <text id="1:2809" name="United States (USD $)" x="28" y="0.5" width="153.8391571044922" height="18" />
+          <frame id="1:2810" name="SVG" x="201.52000427246094" y="16" width="12" height="12" />
+        </frame>
+        <frame id="1:2812" name="List" x="1669" y="14" width="116" height="20">
+          <frame id="1:2813" name="Item → Link" x="0" y="0" width="20" height="20" />
+          <frame id="1:2815" name="Item → Link" x="32" y="0" width="20" height="20" />
+          <frame id="1:2817" name="Item → Link" x="64" y="0" width="20" height="20" />
+          <frame id="1:2819" name="Item → Link" x="96" y="0" width="20" height="20" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="1:2821" name="Button dialog" x="1880" y="721.8599853515625" width="40" height="243.72000122070312">
+      <frame id="1:2822" name="Container" x="230.72000122070312" y="35" width="30" height="217.72000122070312">
+        <frame id="1:2823" name="Background" x="0" y="5" width="20" height="20">
+          <text id="1:2824" name="4" x="6.25" y="3" width="14" height="7.862499713897705" />
+        </frame>
+        <text id="1:2825" name="Special offers for you" x="28" y="6" width="18" height="162.04556274414062" />
+        <frame id="1:2826" name="SVG" x="197.72000122070312" y="5" width="20" height="20" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:2829" name="Dialog" x="0" y="0" width="1920" height="1200">
+    <rounded-rectangle id="1:2830" name="Overlay" x="0" y="0" width="1920" height="1200" />
+    <frame id="1:2831" name="Mask Group" x="520" y="379.04998779296875" width="880" height="441.8900146484375">
+      <rounded-rectangle id="1:2832" name="Mask" x="0" y="0" width="880" height="441.8900146484375" />
+      <frame id="1:2833" name="Background" x="0" y="0" width="880" height="441.8900146484375">
+        <frame id="1:2834" name="Container" x="0" y="0" width="880" height="441.8900146484375">
+          <frame id="1:2835" name="Picture → Two men walking a dusty coastal trail carrying surfboards and wetsuits" x="0" y="0" width="420" height="441.8900146484375" />
+          <text id="1:2836" name="Heading 3 → Sign up to get 10% OFF
+your first order" x="477.5299987792969" y="61.93000030517578" width="345.1199951171875" height="81" />
+          <text id="1:2837" name="Sexy and sustainable goodies? Sign me up" x="499.55999755859375" y="152.92999267578125" width="301.1971130371094" height="24" />
+          <frame id="1:2838" name="Form" x="460" y="200.92999267578125" width="380" height="108">
+            <frame id="1:2839" name="Input" x="0" y="0" width="380" height="48">
+              <frame id="1:2840" name="Container" x="21" y="15" width="338" height="18">
+                <text id="1:2841" name="Enter your email" x="0" y="0" width="117.63163757324219" height="18" />
+              </frame>
+            </frame>
+            <frame id="1:2842" name="Button" x="0" y="60" width="380" height="48">
+              <frame id="1:2843" name="Container" x="144.63999938964844" y="9" width="90.72000122070312" height="30">
+                <text id="1:2844" name="Get 10% OFF" x="0" y="6" width="91.06018829345703" height="18" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:2845" name="List" x="460" y="332.92999267578125" width="380" height="48">
+            <frame id="1:2846" name="Item → Link" x="46" y="0" width="48" height="48">
+              <frame id="1:2847" name="Frame" x="12" y="12" width="24" height="24" />
+            </frame>
+            <frame id="1:2849" name="Item → Link" x="106" y="0" width="48" height="48">
+              <frame id="1:2850" name="Frame" x="12" y="12" width="24" height="24" />
+            </frame>
+            <frame id="1:2852" name="Item → Link" x="166" y="0" width="48" height="48">
+              <frame id="1:2853" name="Frame" x="12" y="12" width="24" height="24" />
+            </frame>
+            <frame id="1:2855" name="Item → Link" x="226" y="0" width="48" height="48">
+              <frame id="1:2856" name="Frame" x="12" y="12" width="24" height="24" />
+            </frame>
+            <frame id="1:2858" name="Item → Link" x="286" y="0" width="48" height="48">
+              <frame id="1:2859" name="Frame" x="12" y="12" width="24" height="24" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:2861" name="Button - Close → SVG" x="838" y="18" width="24" height="24" />
+      </frame>
+    </frame>
+  </frame>
+</canvas>
