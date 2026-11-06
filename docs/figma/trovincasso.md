@@ -1,10 +1,12 @@
 # TROVINCASSO: page `1:3`
 
+> This map describes the **imported template** (node ids still valid). Since 2026-11-06 the copy, colours, fonts, logo and photos are rebranded, and the prototype boards were added: see [prototype.md](prototype.md).
+
 - **Brand:** Trovincasso
 - **Base:** Shopify Hyper theme, **Garace** preset (furniture / home décor). The logo reads "HYPER".
 - **Font:** Instrument Sans (Medium / SemiBold / Bold)
 - **Accents:** cobalt `#1D349A`, lime `#F4F691`, sale red `#C4301C`, warm wood `#D7C8B9` / `#573A19`
-- **Render:** [../screenshots/trovincasso-home.png](../screenshots/trovincasso-home.png)
+- **Render:** template original [../screenshots/before/trovaincasso-home.png](../screenshots/before/trovaincasso-home.png) · after the rebrand [../screenshots/after/trovaincasso-01-home.png](../screenshots/after/trovaincasso-01-home.png)
 - **Node tree:** [raw/trovincasso.metadata.xml](raw/trovincasso.metadata.xml)
 
 ## Top-level frames

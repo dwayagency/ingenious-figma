@@ -1,10 +1,12 @@
 # MISTERCUCINA: page `1:2`
 
+> This map describes the **imported template** (node ids still valid). Since 2026-11-06 the copy, colours, fonts, logo and photos are rebranded, and the prototype boards were added: see [prototype.md](prototype.md).
+
 - **Brand:** MisterCucina
 - **Base:** Shopify Hyper theme, **Pillar** preset (men's apparel / surf). ⚠️ This does not match a kitchen brand.
 - **Font:** Bricolage Grotesque (Medium / SemiBold / Bold)
 - **Accents:** deep green `#113534`, sand `#EAD8AB`, yellow `#FFE093`, maroon band `#5E2723`, bronze `#CD7F32`
-- **Render:** [../screenshots/mistercucina-home.png](../screenshots/mistercucina-home.png)
+- **Render:** template original [../screenshots/before/mistercucina-home.png](../screenshots/before/mistercucina-home.png) · after the rebrand [../screenshots/after/mistercucina-01-home.png](../screenshots/after/mistercucina-01-home.png)
 - **Node tree:** [raw/mistercucina.metadata.xml](raw/mistercucina.metadata.xml)
 
 ## Top-level frames

@@ -9,4 +9,6 @@ Start with [CLAUDE.md](CLAUDE.md), then read:
 - [docs/figma/overview.md](docs/figma/overview.md): shared structure, tokens, placeholder content and observations
 - [docs/figma/tamtam-price.md](docs/figma/tamtam-price.md) · [docs/figma/mistercucina.md](docs/figma/mistercucina.md) · [docs/figma/trovincasso.md](docs/figma/trovincasso.md): section-by-section maps with node ids
 - `docs/figma/raw/`: full node-tree snapshots from the Figma MCP (`get_metadata`)
-- `docs/screenshots/`: full-page renders
+- [docs/figma/prototype.md](docs/figma/prototype.md): prototype boards, components, variables, flows, items to confirm
+- [docs/brand/brand-tokens.md](docs/brand/brand-tokens.md) · [docs/content/content-research.md](docs/content/content-research.md): brand tokens (restyling) and live-site content
+- `docs/screenshots/after/` (current renders) · `docs/screenshots/before/` (template originals)

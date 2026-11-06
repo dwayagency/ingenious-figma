@@ -1,10 +1,12 @@
 # TAMTAM PRICE: page `0:1`
 
+> This map describes the **imported template** (node ids still valid). Since 2026-11-06 the copy, colours, fonts, logo and photos are rebranded, and the prototype boards were added: see [prototype.md](prototype.md).
+
 - **Brand:** TamTam Price
 - **Base:** Shopify Hyper theme, **Nexvo** preset (consumer electronics)
 - **Font:** Archivo (Regular / SemiBold / Bold)
 - **Accents:** blue `#1C52D7`, flash-bar orange, sale red `#CB321E`, "new" green `#27923B`
-- **Render:** [../screenshots/tamtam-price-home.png](../screenshots/tamtam-price-home.png)
+- **Render:** template original [../screenshots/before/tamtam-price-home.png](../screenshots/before/tamtam-price-home.png) · after the rebrand [../screenshots/after/tamtam-price-01-home.png](../screenshots/after/tamtam-price-01-home.png)
 - **Node tree:** [raw/tamtam-price.metadata.xml](raw/tamtam-price.metadata.xml)
 
 ## Top-level frames
