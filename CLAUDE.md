@@ -38,6 +38,10 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   structure, copy, photomontages and product images.
 - **Current state (2026-11-06):** all 3 homepages are rebranded and each page has 4 prototype boards, a brand kit
   and components. See [docs/figma/prototype.md](docs/figma/prototype.md) for node ids, flows and placeholders.
+- **Homepage photos (2026-11-10):** the homepage image slots hold AI lifestyle photos made with Higgsfield from the
+  real product photos (`gpt_image_2_6`). The slot → image map, and the slots that keep product montages, are in
+  [docs/figma/ai-photos.md](docs/figma/ai-photos.md). To change a photo, set a new `IMAGE` fill on the slot frame.
+  Hidden carousel slides reuse the same `imageHash`.
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
   limited to 200 calls/day and 10/minute, and a collection can have only **1 variable mode**. Variables are therefore
   split into 3 collections `Brand · <brand>`.

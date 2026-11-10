@@ -71,6 +71,6 @@ cart, ⇄ Confronta → compare) → cart (✕ closes). Logo → home.
 
 - The homepages are still the imported absolute-position layouts. The new boards use auto-layout, variables, text
   styles and components.
-- Lifestyle images (people, rooms) were replaced by product photomontages on brand colours. No AI images were
-  generated. If you want them, Figma's `generate_image` uses AI credits.
+- Homepage photos: since 2026-11-10 the homepages use AI lifestyle photos made with Higgsfield from the real products.
+  See [ai-photos.md](ai-photos.md). The boards (PLP, PDP, cart, …) still use the white-background product photos.
 - Desktop only. Mobile versions of the boards are the natural next step.
