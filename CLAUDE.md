@@ -42,6 +42,9 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   real product photos (`gpt_image_2_6`). The slot → image map, and the slots that keep product montages, are in
   [docs/figma/ai-photos.md](docs/figma/ai-photos.md). To change a photo, set a new `IMAGE` fill on the slot frame.
   Hidden carousel slides reuse the same `imageHash`.
+- **Mobile (2026-11-10):** each page has a 390 px mobile row below the desktop boards. It has 7 screens (home,
+  category, product, cart, brand screen, menu, filters), `Mobile / *` components and its own flow
+  "`<brand> · Prototipo mobile`". Node ids and flows are in [docs/figma/mobile.md](docs/figma/mobile.md).
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
   limited to 200 calls/day and 10/minute, and a collection can have only **1 variable mode**. Variables are therefore
   split into 3 collections `Brand · <brand>`.

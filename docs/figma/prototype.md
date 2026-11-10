@@ -73,4 +73,4 @@ cart, ⇄ Confronta → compare) → cart (✕ closes). Logo → home.
   styles and components.
 - Homepage photos: since 2026-11-10 the homepages use AI lifestyle photos made with Higgsfield from the real products.
   See [ai-photos.md](ai-photos.md). The boards (PLP, PDP, cart, …) still use the white-background product photos.
-- Desktop only. Mobile versions of the boards are the natural next step.
+- Mobile: since 2026-11-10 each page also has a 390 px mobile row (7 screens, own flow). See [mobile.md](mobile.md).
