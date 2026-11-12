@@ -45,6 +45,13 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
 - **Mobile (2026-11-10):** each page has a 390 px mobile row below the desktop boards. It has 7 screens (home,
   category, product, cart, brand screen, menu, filters), `Mobile / *` components and its own flow
   "`<brand> · Prototipo mobile`". Node ids and flows are in [docs/figma/mobile.md](docs/figma/mobile.md).
+- **B2C tree and requirements (2026-11-12):**
+  - The menus follow the client's B2C category tree.
+  - Products have **no variants**: every size or colour is a separate product, so never draw variant selectors.
+  - Availability has 3 states, and the warranty extension is 3 years.
+  - **B2B is out of scope** for the MVP.
+  - Each page has new boards 06–12: megamenu, L1 category, cart page with invoice request, search, sign in, orders, shipping.
+  - Details, node ids and open points are in [docs/figma/pages-b2c.md](docs/figma/pages-b2c.md).
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
   limited to 200 calls/day and 10/minute, and a collection can have only **1 variable mode**. Variables are therefore
   split into 3 collections `Brand · <brand>`.
