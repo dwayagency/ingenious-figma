@@ -1,7 +1,7 @@
 # Ingenious Holding – Shopify storefront designs (Figma context)
 
 This repo holds the **design context** for the Figma file that contains the Shopify
-storefront homepages of the Ingenious Holding brands. There is no application code yet.
+storefront homepages of the Ingenious Holding brands. The only code is the theme snippet in `shopify/invoice-request/`.
 Edits are made **directly in Figma** through the Figma MCP connector (`use_figma`).
 
 ## Figma file
@@ -52,6 +52,9 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   - **B2B is out of scope** for the MVP.
   - Each page has new boards 06–12: megamenu, L1 category, cart page with invoice request, search, sign in, orders, shipping.
   - Details, node ids and open points are in [docs/figma/pages-b2c.md](docs/figma/pages-b2c.md).
+  - Mobile screens M08–M14 (2026-11-13) mirror boards 06–12; ids in [docs/figma/mobile.md](docs/figma/mobile.md).
+- **Theme code (2026-11-13):** `shopify/invoice-request/` holds the cart "Richiedi fattura" block (Liquid snippet + JS +
+  tests, `node --test shopify/invoice-request/tests/*.test.*`). It is the only code in the repo.
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
   limited to 200 calls/day and 10/minute, and a collection can have only **1 variable mode**. Variables are therefore
   split into 3 collections `Brand · <brand>`.

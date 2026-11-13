@@ -58,12 +58,19 @@ Megamenu and category-page items lead to the PLP. Cards lead to the PDP. In the 
 
 1. Shipping tariffs by category (2.3.10). The values in the design are only examples.
 2. Number of levels in the menu (group + 3 levels) and the extra level under Piccolo elettrodomestico.
-3. Where the invoice fields go (cart vs checkout) and which app validates the tax code / VAT number.
+3. Where the invoice fields go (cart vs checkout) and which app validates the tax code / VAT number. Proposal: the custom cart block in `shopify/invoice-request/` (or the Fatture Italia app). Also decide whether to turn off "Acquista ora" (express checkout) on the product pages, since it skips the cart.
 4. Delivery time of "su ordinazione" products (about 30 days, editable) and the exact wording of the 3 states.
 5. Bundles (7.1): technically feasible with the free **Shopify Bundles** app (fixed bundles of separate products, no variants needed). The "Spesso acquistati insieme" / "Pacchetto incasso" blocks on the PDPs follow this model.
 6. Free shipping above 99 € (MisterCucina homepage) and "consegna al piano gratuita" (TamTam): do these stay alongside the per-category tariffs?
 7. The Trovaincasso header contained elements I did not create (e.g. "Libera Installazione", "Lavelli e bagno" twice). I hid them, I did not delete them.
 
-## Not done yet
+## Mobile versions
 
-- **Mobile** versions of the new pages 06–12. Only the mobile menus and the mobile PDPs and PLPs have been updated.
+Done on 2026-11-13: screens M08–M14 on each page, wired into the mobile flow. Node ids in [mobile.md](mobile.md).
+
+## Invoice data (point 3)
+
+Theme code for the cart block is in [`shopify/invoice-request/`](../../shopify/invoice-request/README.md): validation of
+codice fiscale, partita IVA, SDI and PEC, storage as cart attributes (→ order `note_attributes`), checkout blocked until
+the data is valid, optional VIES check. The README also compares the ready-made apps.
+The example VAT number in the designs is now `IT01234560017`, which passes the check digit (the old `IT01234567890` did not).

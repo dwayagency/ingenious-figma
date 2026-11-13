@@ -39,6 +39,22 @@ Renders: [../screenshots/mobile/](../screenshots/mobile/) (`<brand>-mobile-overv
 | M06 Menu (overlay) | `110:1518` | `115:3383` | `118:3111` |
 | M07 Filters (overlay) | `112:1399` | `116:3304` | `119:2953` |
 
+### Pages from the B2C tree (2026-11-13)
+
+Same row, columns 8–14, built from the desktop boards 06–12 (see [pages-b2c.md](pages-b2c.md)).
+
+| Screen | TamTam Price (`0:1`) | MisterCucina (`1:2`) | Trovaincasso (`1:3`) |
+|---|---|---|---|
+| M08 Menu · category levels (overlay) | `161:3268` Lavaggio | `163:7759` Cottura | `164:6872` Cappe |
+| M09 L1 category page | `161:3314` Lavaggio | `163:7806` Cottura | `164:6912` Cappe (types as chips) |
+| M10 Full cart page + invoice request | `161:3515` (private) | `163:8061` (company) | `164:7117` (company) |
+| M11 Search results | `162:3473` "forno" | `165:8034` "induzione" | `166:7084` "cappa" |
+| M12 Account · Sign in / register | `162:3640` | `165:8236` | `166:7259` |
+| M13 Account · My orders | `162:3750` | `165:8381` | `166:7371` |
+| M14 Shipping, availability and warranty | `162:3892` | `165:8558` | `166:7515` |
+
+Renders: `<brand>-m08-menu-categoria.png` … `<brand>-m14-spedizioni.png` and `<brand>-mobile-overview-2.jpg`.
+
 ## Prototype flow
 
 - **Header on every screen:** ☰ opens the menu drawer, the bag icon opens the cart, the logo goes to the home.
@@ -51,6 +67,14 @@ Renders: [../screenshots/mobile/](../screenshots/mobile/) (`<brand>-mobile-overv
   - MisterCucina: "Chiedi a un esperto" and the "Chi siamo" link in the menu.
   - Trovaincasso: the pro bar, the quantity-price table and the menu link open "Ordine rapido". "Aggiungi tutto al
     carrello" opens the cart.
+
+- **Pages from the B2C tree** (links on the `Mobile / Header` component work on every screen):
+  - the search icon opens M11 and the account icon opens M12; "Accedi" / "Crea un account" lead to M13;
+  - in the menu M06, the open category (Lavaggio / Cottura / Cappe) swaps to its levels in M08, and the shipping link
+    opens M14;
+  - M08: "Tutte le categorie" goes back to M06, ✕ closes, "Vedi tutto …" opens M09, level-3 items open the category page;
+  - M09 and M11: subcategories and suggested categories open the category page, cards open the product page;
+  - in the cart overlay M04, "Vai alla cassa" opens the full cart page M10.
 
 ## Notes
 

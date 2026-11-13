@@ -1,0 +1,110 @@
+{%- comment -%}
+  Cart block "Richiedi la fattura".
+  Render it in the cart page template (main-cart / cart footer), above the checkout button:
+
+    {% render 'invoice-request', form_id: 'cart' %}
+
+  Parameters (all optional):
+    form_id       id of the cart <form>. Inputs carry form="{{ form_id }}", so without JavaScript the data
+                  is still posted with the cart form as attributes[...]. Default: 'cart'.
+    vies_endpoint URL of your middleware that checks a VAT number in VIES (see README). Empty = no check.
+    vies_mode     'warn' (default: show a warning) or 'block' (block checkout if VIES says inactive).
+
+  Data is stored as cart attributes and reaches the order as note_attributes:
+    fattura_richiesta, fattura_tipo, fattura_nome, fattura_codice_fiscale,
+    fattura_ragione_sociale, fattura_partita_iva, fattura_codice_sdi, fattura_pec
+{%- endcomment -%}
+{%- liquid
+  assign form_id = form_id | default: 'cart'
+  assign a = cart.attributes
+  assign requested = false
+  if a.fattura_richiesta == 'si'
+    assign requested = true
+  endif
+  assign type = a.fattura_tipo | default: 'privato'
+  assign sdi_value = a.fattura_codice_sdi
+  if sdi_value == '0000000'
+    assign sdi_value = ''
+  endif
+-%}
+{{ 'invoice-request.css' | asset_url | stylesheet_tag }}
+<div class="invoice-request" data-invoice-request
+  {% if vies_endpoint != blank %}data-vies-endpoint="{{ vies_endpoint | escape }}" data-vies-mode="{{ vies_mode | default: 'warn' }}"{% endif %}>
+  <label class="invoice-request__switch">
+    <input type="checkbox" data-ir-toggle {% if requested %}checked{% endif %}>
+    <span class="invoice-request__track" aria-hidden="true"></span>
+    <span class="invoice-request__title">Richiedo la fattura</span>
+  </label>
+
+  <div class="invoice-request__body" data-ir-body {% unless requested %}hidden{% endunless %}>
+    <fieldset class="invoice-request__segmented">
+      <legend class="visually-hidden">Tipo di cliente</legend>
+      <label><input type="radio" name="ir-type" value="privato" data-ir-type {% if type != 'azienda' %}checked{% endif %}><span>Privato</span></label>
+      <label><input type="radio" name="ir-type" value="azienda" data-ir-type {% if type == 'azienda' %}checked{% endif %}><span>Azienda</span></label>
+    </fieldset>
+
+    <div data-ir-section="privato">
+      <div class="invoice-request__field">
+        <label for="ir-name">Nome e cognome</label>
+        <input id="ir-name" type="text" autocomplete="name" data-ir-field="name"
+          name="attributes[fattura_nome]" form="{{ form_id }}" value="{{ a.fattura_nome | escape }}">
+        <p class="invoice-request__error" data-ir-error="name" hidden></p>
+      </div>
+      <div class="invoice-request__field">
+        <label for="ir-cf">Codice fiscale</label>
+        <div class="invoice-request__input">
+          <input id="ir-cf" type="text" maxlength="16" autocapitalize="characters" spellcheck="false" data-ir-field="taxCode"
+            name="attributes[fattura_codice_fiscale]" form="{{ form_id }}" value="{{ a.fattura_codice_fiscale | escape }}">
+          <span class="invoice-request__ok" data-ir-ok="taxCode" hidden>✓ valido</span>
+        </div>
+        <p class="invoice-request__error" data-ir-error="taxCode" hidden></p>
+      </div>
+      <p class="invoice-request__hint">Per i privati il codice destinatario SDI è 0000000: lo compiliamo noi.</p>
+    </div>
+
+    <div data-ir-section="azienda">
+      <div class="invoice-request__field">
+        <label for="ir-company">Ragione sociale</label>
+        <input id="ir-company" type="text" autocomplete="organization" data-ir-field="company"
+          name="attributes[fattura_ragione_sociale]" form="{{ form_id }}" value="{{ a.fattura_ragione_sociale | escape }}">
+        <p class="invoice-request__error" data-ir-error="company" hidden></p>
+      </div>
+      <div class="invoice-request__field">
+        <label for="ir-vat">Partita IVA</label>
+        <div class="invoice-request__input">
+          <input id="ir-vat" type="text" inputmode="numeric" maxlength="13" placeholder="IT01234567890" data-ir-field="vat"
+            name="attributes[fattura_partita_iva]" form="{{ form_id }}" value="{{ a.fattura_partita_iva | escape }}">
+          <span class="invoice-request__ok" data-ir-ok="vat" hidden>✓ valida</span>
+        </div>
+        <p class="invoice-request__error" data-ir-error="vat" hidden></p>
+      </div>
+      <div class="invoice-request__row">
+        <div class="invoice-request__field">
+          <label for="ir-sdi">Codice SDI</label>
+          <input id="ir-sdi" type="text" maxlength="7" autocapitalize="characters" spellcheck="false" data-ir-field="sdi"
+            name="attributes[fattura_codice_sdi]" form="{{ form_id }}" value="{{ sdi_value | escape }}">
+          <p class="invoice-request__error" data-ir-error="sdi" hidden></p>
+        </div>
+        <div class="invoice-request__field">
+          <label for="ir-pec">oppure PEC</label>
+          <input id="ir-pec" type="email" autocomplete="email" data-ir-field="pec"
+            name="attributes[fattura_pec]" form="{{ form_id }}" value="{{ a.fattura_pec | escape }}">
+          <p class="invoice-request__error" data-ir-error="pec" hidden></p>
+        </div>
+      </div>
+      <div class="invoice-request__field">
+        <label for="ir-ccf">Codice fiscale dell'azienda <span>(se diverso dalla partita IVA)</span></label>
+        <input id="ir-ccf" type="text" maxlength="16" autocapitalize="characters" spellcheck="false" data-ir-field="taxCode"
+          name="attributes[fattura_codice_fiscale]" form="{{ form_id }}" value="{{ a.fattura_codice_fiscale | escape }}">
+        <p class="invoice-request__error" data-ir-error="taxCode" hidden></p>
+      </div>
+      <p class="invoice-request__status" data-ir-status aria-live="polite"></p>
+    </div>
+
+    <p class="invoice-request__hint">L'indirizzo di fatturazione è quello inserito al checkout. I pagamenti rapidi
+      (Shop Pay, PayPal, Apple Pay) sono nascosti quando richiedi la fattura.</p>
+  </div>
+  <input type="hidden" name="attributes[fattura_richiesta]" form="{{ form_id }}" value="{% if requested %}si{% endif %}" data-ir-hidden-requested>
+</div>
+<script src="{{ 'invoice-core.js' | asset_url }}" defer></script>
+<script src="{{ 'invoice-request.js' | asset_url }}" defer></script>
