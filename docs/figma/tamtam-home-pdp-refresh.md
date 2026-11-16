@@ -1,7 +1,7 @@
-# TamTam Price: stronger homepage sections and richer product page (2026-11-16)
+# Stronger homepage sections and richer product page (2026-11-16)
 
-Only the `TAMTAM PRICE` page (`0:1`) was changed. If the result does not convince, it can be reverted (see the
-last section).
+Done first on TamTam Price, approved, then applied to MisterCucina and Trovaincasso (see the section
+[MisterCucina and Trovaincasso](#mistercucina-and-trovaincasso)). Every page has backups to revert.
 
 ## Homepage (`1:4347`)
 
@@ -41,3 +41,37 @@ Figma's version history also has the previous state (File › Show version histo
   new section (for Grandi elettrodomestici also move the sections below back up by 171 px).
 - **`BACKUP · 03 · PDP · Bosch Serie 6 (prima del 16/11)`** (`230:7622`) is a full copy of the old product page.
 - The eyebrow label restyle is not in the backup: set those texts back to 15 px, mixed case, black.
+
+## MisterCucina and Trovaincasso
+
+The homepages have different structures, so the same ideas were applied to the equivalent sections.
+
+**MisterCucina (`1:2`)**
+- "Acquista per reparto" (`1:1897`): category names 24 px Bold (H3), counts in the Body style + "da X €" (placeholders).
+- Eyebrows (Cucinare con stile, Edizione speciale, I preferiti dai clienti, Componi la tua cucina, I nostri brand):
+  14 px Bold uppercase, accent orange-red; those on photos (Collezione cucina 2026, Di tendenza, Fino a esaurimento)
+  keep their colour.
+- "I nostri brand": real logos (Bosch, Smeg, Electrolux, Franke, Elica; Foster is still the text placeholder).
+- The navy band "Qualità, assistenza e grandi marche" and the 3 USPs above the newsletter already had 22 px titles:
+  unchanged.
+- PDP 03 Smeg Concerto (`43:1421`): logo row, stars "4,9 · 18 recensioni", "-15%" pill, "Risparmi 136,64 €" + 30-day
+  lowest price, availability light + "Solo 3 pezzi rimasti", *In evidenza* (90 cm, 5 fuochi a gas, forno elettrico,
+  classe A from the spec table) with documents, reviews section.
+- Backups: frame `237:17261` (sections `1:1897` and the brand strip), PDP copy `237:17382` (x −4400).
+
+**Trovaincasso (`1:3`)**
+- "Acquista per categoria" (`1:3191`): rebuilt like TamTam's grid: 12 rounded tiles (6×2) with name 22 px Bold, short
+  description, product photo, dark green arrow, yellow "Offerte" badge on Promo del mese. Section 90 px taller, content
+  below moved down (homepage now 10 939 px).
+- "Piani cottura sotto i 300 €" tiles (`1:3843`): names 24 px Bold, sublines in the Body style.
+- "Perché scegliere Trovaincasso" cards (`1:3988`): titles 24 px Bold, texts moved down.
+- Eyebrows (15 on the page): 14 px Bold uppercase, dark green on light backgrounds, unchanged colour on photos.
+- No brand strip exists on this homepage.
+- PDP 03 Samsung NZ84 (`46:1331`): logo row, stars "4,9 · 12 recensioni" + "Recensioni verificate Feedaty", "-17%"
+  yellow pill, "Risparmi 458,72 €" + 30-day lowest price, availability light, *In evidenza* (83 cm, induzione, cappa
+  aspirante integrata, incasso) with documents (scheda tecnica, manuale, dima di incasso), reviews section.
+- Backups: frame `237:25423` (sections `1:3191`, `1:3843`, `1:3988`), PDP copy `237:25661` (x −8600).
+
+Reviews, 30-day prices, "da X €" and counts are placeholders on both pages.
+
+Renders: `docs/screenshots/after/<brand>-01-home.png`, `<brand>-03-pdp.png`, `<brand>-03-pdp-top.png`.
