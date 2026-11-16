@@ -53,7 +53,7 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   - Each page has new boards 06–12: megamenu, L1 category, cart page with invoice request, search, sign in, orders, shipping.
   - Details, node ids and open points are in [docs/figma/pages-b2c.md](docs/figma/pages-b2c.md).
   - Mobile screens M08–M14 (2026-11-13) mirror boards 06–12; ids in [docs/figma/mobile.md](docs/figma/mobile.md).
-- **TamTam product cards (2026-11-16, TamTam page only):** new card sets `Card prodotto · griglia` / `· lista` and
+- **Product cards (2026-11-16, all three pages):** new card sets `Card prodotto · griglia` / `· lista` and
   `Mobile / Card prodotto · griglia` / `· lista` (brand logo, SKU, stars, availability traffic light, stronger discount
   with savings, "IVA inclusa"), plus grid/list boards 02b and M02b. The old `Card prodotto` components were deleted.
   Details in [docs/figma/product-cards.md](docs/figma/product-cards.md).
