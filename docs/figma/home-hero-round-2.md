@@ -1,6 +1,6 @@
 # Homepages, second round: hero, first scroll and broken sections (2026-11-16)
 
-Desktop homepages only (mobile unchanged). Every changed section was copied into the page's backup frame first.
+Desktop homepages, then mobile M01 (see [Mobile](#mobile-m01)). Every changed section was copied into a backup first.
 
 ## TamTam Price (`0:1`, homepage `1:4347`)
 
@@ -26,7 +26,7 @@ Homepage now 11 619 px tall. Backups in `237:17261` (`1:1488`, `1:1857`, `1:2253
 
 | Change | Details |
 |---|---|
-| Hero "Piani aspiranti" (slides `1:2951` and `1:2973`) | Left-aligned text block `Hero · testo` on a dark green gradient (`Overlay leggibilità`): yellow eyebrow "NOVITÀ 2026 · PIANI ASPIRANTI", title **"La cappa ora è nel piano."** 84 px, two-line subtitle on integrated extraction, CTAs "Scopri i piani aspiranti →" (yellow) and "Come scegliere" (outline), line "Da 899 € · Spedizione 24/48h · Estensione garanzia 3 anni". The old centred texts are hidden. |
+| Hero "Piani aspiranti" (slides `1:2951` and `1:2973`) | Left-aligned text block `Hero · testo` on a dark green gradient (`Overlay leggibilità`): yellow eyebrow "NOVITÀ 2026 · PIANI ASPIRANTI", title **"La cappa ora è nel piano."** 84 px, two-line subtitle on integrated extraction, CTA "Scopri i piani aspiranti →" (yellow), line "Da 899 € · Spedizione 24/48h · Estensione garanzia 3 anni". The old centred texts are hidden. |
 | "Acquista per categoria" tile | "Promo del mese" renamed **"Offerte del mese"**, yellow "Offerte" badge removed (desktop `237:25801`, mobile tile in `118:2801`). |
 | Reviews with product (`1:3344`) | Same fix as MisterCucina: quote slider `1:3366` clipped to 686, panel `1:3364` 960, peeking image `1:3383` hidden, swatches hidden. |
 | Forni / Lavastoviglie promos (`1:3570`) | Eyebrow "OFFERTA A TEMPO · FINO A ESAURIMENTO", titles "Forni da incasso" / "Lavastoviglie da incasso" 38 px, **"fino al -40%" / "-30%" at 108 px** with the line next to it, "Acquista" button at the bottom. The small round "Risparmia" badges are hidden. |
@@ -35,10 +35,26 @@ Homepage now 11 619 px tall. Backups in `237:17261` (`1:1488`, `1:1857`, `1:2253
 
 Backups in `237:25423` (`1:2951`, `1:3344`, `1:3570`, `1:3597`, `1:3945`, `237:25801`).
 
+## Mobile (M01)
+
+| | TamTam Price (`110:1048`) | MisterCucina (`115:2836`) | Trovaincasso (`118:2580`) |
+|---|---|---|---|
+| Categories | Round 88×110 carousel (`110:1089`) → compact chips (34 px photo + name), section 70 px instead of 134 | Same (`115:2942`), 70 px instead of 142 | Round circles kept; tile "Offerte del mese" without badge (`118:2801`) |
+| First scroll | "I più venduti" was already right after the advantages | — | — |
+| Hero | unchanged | unchanged | "Hero · Piani aspiranti" (`118:2662`): dark green gradient, yellow eyebrow, title "La cappa ora è nel piano." 42 px, subtitle, yellow CTA "Scopri i piani aspiranti →", USP line |
+| Shop the look | — | "Set incasso completo" (`115:3256`): 3 hotspots on the photo, tooltip "Elica Cruise IX 90 · 288,25 €", pill "Acquista il look · 3" | — |
+| Promos | — | — | "Promozioni" (`118:2879`): eyebrow "OFFERTA A TEMPO", titles "Forni / Lavastoviglie da incasso" 22 px, "-40%" / "-30%" 58 px |
+
+Already fine on mobile, so unchanged: the reviews blocks ("I preferiti dai clienti"), the MisterCucina newsletter
+("Promo e offerte, fino al -10%" in the footer). The Trovaincasso pills row and ticker exist only on desktop.
+
+Backups: copies named `BACKUP M01 · <section> (prima del 16/11)` at x −900 from each M01 screen.
+
+Renders: `docs/screenshots/mobile/<brand>-m01-home.png`.
+
 ## Placeholders
 
 - Hotspot products and prices, "Da 899 €" on the Trovaincasso hero, the "-10%" newsletter offer, promo percentages.
-- "Come scegliere" has no target board yet.
 
 ## How to revert
 

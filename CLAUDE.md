@@ -60,7 +60,7 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
 - **Home + PDP refresh (2026-11-16, all three pages; TamTam first, then MisterCucina and Trovaincasso):** bolder
   category grids, uppercase bold eyebrows, stronger USP / "Perché" titles, real brand logos, richer PDP (highlights,
   savings, reviews), desktop and mobile (M01, M03). Backups and how to revert: [docs/figma/tamtam-home-pdp-refresh.md](docs/figma/tamtam-home-pdp-refresh.md).
-- **Homepages round 2 (2026-11-16, desktop):** compact category chip bars (TamTam, MisterCucina), "I più venduti"
+- **Homepages round 2 (2026-11-16, desktop + mobile M01):** compact category chip bars (TamTam, MisterCucina), "I più venduti"
   right after the hero on TamTam, new Trovaincasso hero ("La cappa ora è nel piano."), shop-the-look hotspots,
   fixed reviews / newsletter / pills sections, stronger promos, full category ticker. Backups (copies named "BACKUP …
   17/11") and how to revert: [docs/figma/home-hero-round-2.md](docs/figma/home-hero-round-2.md).
