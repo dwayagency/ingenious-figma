@@ -23,7 +23,7 @@ Renders: [../screenshots/mobile/](../screenshots/mobile/) (`<brand>-mobile-overv
 |---|---|
 | `Mobile / Barra annunci` | 36 px, inverse surface |
 | `Mobile / Header` | Menu, search, logo, account, cart with count. Its prototype links (menu → drawer, cart → cart, logo → home) are set on the component, so they work on every screen |
-| `Mobile / Card prodotto` | 171 px. Props: Nome, Marca, Prezzo, Prezzo barrato, Mostra prezzo barrato, Badge, Mostra badge (Trovaincasso also has Disponibilità). Swap the photo on the `Immagine` layer |
+| `Mobile / Card prodotto` | TamTam: replaced on 2026-11-16 by `Mobile / Card prodotto · griglia` and `· lista` ([product-cards.md](product-cards.md)). 171 px. Props: Nome, Marca, Prezzo, Prezzo barrato, Mostra prezzo barrato, Badge, Mostra badge (Trovaincasso also has Disponibilità). Swap the photo on the `Immagine` layer |
 | `Mobile / Footer` | Newsletter card, accordion links, contacts, payments, legal line |
 
 ## Screens and node ids
