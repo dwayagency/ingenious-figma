@@ -59,7 +59,7 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   Details in [docs/figma/product-cards.md](docs/figma/product-cards.md).
 - **Home + PDP refresh (2026-11-16, all three pages; TamTam first, then MisterCucina and Trovaincasso):** bolder
   category grids, uppercase bold eyebrows, stronger USP / "Perché" titles, real brand logos, richer PDP (highlights,
-  savings, reviews). Backups and how to revert: [docs/figma/tamtam-home-pdp-refresh.md](docs/figma/tamtam-home-pdp-refresh.md).
+  savings, reviews), desktop and mobile (M01, M03). Backups and how to revert: [docs/figma/tamtam-home-pdp-refresh.md](docs/figma/tamtam-home-pdp-refresh.md).
 - **Theme code (2026-11-13):** `shopify/invoice-request/` holds the cart "Richiedi fattura" block (Liquid snippet + JS +
   tests, `node --test shopify/invoice-request/tests/*.test.*`). It is the only code in the repo.
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is

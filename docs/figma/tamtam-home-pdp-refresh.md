@@ -75,3 +75,23 @@ The homepages have different structures, so the same ideas were applied to the e
 Reviews, 30-day prices, "da X €" and counts are placeholders on both pages.
 
 Renders: `docs/screenshots/after/<brand>-01-home.png`, `<brand>-03-pdp.png`, `<brand>-03-pdp-top.png`.
+
+## Mobile (M01 home, M03 product page) — all three brands
+
+| | TamTam Price | MisterCucina | Trovaincasso |
+|---|---|---|---|
+| Category grid | "Grandi elettrodomestici" grid (`110:1289`) rebuilt: 6 tiles 171×150, name 17 px Bold, "N prodotti · da X €", photo, arrow, red -30% / -20% badges | "Acquista per reparto" (`115:3145`): names 19 px Bold, "· da X €" added | "Acquista per categoria" (`118:2801`) rebuilt: 6 tiles 171×132 with name, short description, photo, arrow, yellow "Offerte" badge |
+| Eyebrows | Bold uppercase 12 px, red on light backgrounds | same, accent orange-red | same, dark green |
+| Titles | "Vantaggi" strip titles 14 px Bold, "Perché TamTam Price" box titles H4 | "Vantaggi" and "Qualità e servizi" titles Bold | "Perché scegliere" service cards 18 px Bold, "Offerte top" tiles 17 px Bold |
+| Brand logos | "I nostri brand" (`110:1433`): real logos | "I nostri brand" (`115:3301`): real logos | — (no brand strip) |
+| M03 product page | logo row, stars, "-12%" pill, savings + 30-day price, availability light + "Solo 4 pezzi rimasti", *In evidenza* 2×2 + documents, reviews (summary, bars, 2 reviews) | same for Smeg Concerto (-15%, "Solo 3 pezzi rimasti") | same for Samsung NZ84 (-17% yellow, Feedaty) |
+
+Backups (full copies of the old screens, prototype links removed): TamTam `245:8047` (M01) and `245:8884` (M03) at
+x −3000; MisterCucina `246:18775` / `246:19728` at x 11800; Trovaincasso `247:16855` / `247:17744` at x 7500, on each
+page's mobile row.
+
+The sticky "Aggiungi al carrello" bar on M03 is fixed on scroll: in full-length renders it covers one row of content,
+in the prototype it stays at the bottom of the screen.
+
+Renders: `docs/screenshots/mobile/<brand>-m01-home.png`, `<brand>-m03-pdp.png`, comparison sheets
+`mobile-m01-home-confronto.jpg` and `mobile-m03-pdp-confronto.png`.
