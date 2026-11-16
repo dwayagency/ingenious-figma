@@ -31,9 +31,10 @@ Homepage now 11 619 px tall. Backups in `237:17261` (`1:1488`, `1:1857`, `1:2253
 | Reviews with product (`1:3344`) | Same fix as MisterCucina: quote slider `1:3366` clipped to 686, panel `1:3364` 960, peeking image `1:3383` hidden, swatches hidden. |
 | Forni / Lavastoviglie promos (`1:3570`) | Eyebrow "OFFERTA A TEMPO · FINO A ESAURIMENTO", titles "Forni da incasso" / "Lavastoviglie da incasso" 38 px, **"fino al -40%" / "-30%" at 108 px** with the line next to it, "Acquista" button at the bottom. The small round "Risparmia" badges are hidden. |
 | Pills row below (`1:3597`) | The 10 pills overlapped by 8 px: now spaced 12 px apart; the row scrolls and fades out on the right. |
+| "Lasciati ispirare: cucine complete" (`1:3384`) | **Shop the look**, like MisterCucina: 3 hotspots per photo (white dot, dark green centre, soft ring) on the Smeg kitchen (`1:3387`) and the coffee-machine kitchen (`1:3439`), one tooltip each ("Smeg Concerto 90 · 778,36 €", "Bosch CTL7181B0 · 2.183,64 €" + "Vedi prodotto →"), pill "Acquista il look · 3" in place of the bare "3" buttons. Mobile "Lasciati ispirare" (`118:2848`): the "+" hotspots restyled the same way, a third hotspot per photo. |
 | Ticker below "Offerte top" (`1:3945`) | Was only Forni / Piani cottura / Cappe: added Lavastoviglie, Frigoriferi, Congelatori, Macchine caffè, Lavelli, Lavatrici, Microonde, Accessori, with the product photos of the category tiles. |
 
-Backups in `237:25423` (`1:2951`, `1:3344`, `1:3570`, `1:3597`, `1:3945`, `237:25801`).
+Backups in `237:25423` (`1:2951`, `1:3384`, `1:3344`, `1:3570`, `1:3597`, `1:3945`, `237:25801`).
 
 ## Mobile (M01)
 
