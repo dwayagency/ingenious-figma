@@ -48,7 +48,8 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
 - **B2C tree and requirements (2026-11-12):**
   - The menus follow the client's B2C category tree.
   - Products have **no variants**: every size or colour is a separate product, so never draw variant selectors.
-  - Availability has 3 states, and the warranty extension is 3 years.
+  - Availability has 3 states, and the warranty extension is 3 years. **On the boards show only green (3/5 giorni)
+    and yellow (circa 30 giorni)**; red "Non disponibile" appears only on the shipping pages (12, M14).
   - **B2B is out of scope** for the MVP.
   - Each page has new boards 06–12: megamenu, L1 category, cart page with invoice request, search, sign in, orders, shipping.
   - Details, node ids and open points are in [docs/figma/pages-b2c.md](docs/figma/pages-b2c.md).

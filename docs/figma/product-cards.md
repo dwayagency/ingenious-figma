@@ -42,8 +42,13 @@ M03, M09, M11). On the **desktop homepage** the 10 imported cards of "I più ven
 were replaced with `Card prodotto · griglia` instances; the two sections grew by 147 px each and everything below was
 moved down (homepage now 10 290 px tall). The old colour-swatch dots on those cards are gone (no variants).
 
-Examples of the three states: PLP 02 shows Disponibile, Su ordinazione (Beko WIT8A4BW) and Non disponibile (Indesit IM
-862, button "Avvisami quando torna").
+**Rule (2026-11-17):** the boards show only **green** (Disponibile, 3/5 giorni) and **yellow** (Su ordinazione, circa 30
+giorni). The red `Non disponibile` variant stays in the `Disponibilità` component for the theme, but no card, filter or
+list on the boards uses it; the three colours are shown together only on the shipping pages (12 and M14). The former red
+examples (Indesit IM 862 on TamTam, Electrolux FR53R on MisterCucina, Foster Veronika on Trovaincasso, in 02, 02b, M02,
+M02b and the TamTam brand boards 02c / M02c) are now available, with "Aggiungi al carrello". Trovaincasso: the
+"Non disponibile · avvisami" filter option was removed (02, 02b, M07) and the quick-order row (05) reads "Su
+ordinazione · 30 gg".
 
 ## Grid / list view
 
@@ -92,7 +97,6 @@ Trovaincasso. The availability text on Trovaincasso reads "Disponibile · spediz
     The hand-typed code "SMG-909010" on the Smeg card was kept as its SKU (homepage 10 849 px tall).
 - Logos added: Franke, Neff, Elica, Candy, Indesit, Schock (SVG from the brands' websites), Whirlpool (Wikimedia
   Commons), Samsung (Simple Icons). Text placeholders: Foster, Turbo Air, Plados.
-- Non disponibile examples: Electrolux FR53R (MisterCucina PLP and M02), Foster Veronika (Trovaincasso PLP and M02).
 - Renders: `docs/screenshots/after/<brand>-01-home.png`, `-02-plp.png`, `-02b-plp-lista.png`, `-componenti-card.png`;
   `docs/screenshots/mobile/<brand>-m02-plp.png`, `-m02b-plp-lista.png`.
 
