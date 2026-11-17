@@ -69,6 +69,8 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   brand-logo band under the hero and brand archive boards 02c / M02c (Samsung); the same band on Trovaincasso, Feedaty +
   category chips on MisterCucina; photo category banner on the archive pages (02, 02b, M02, M02b) of all three sites. Backups (copies named "BACKUP …
   17/11") and how to revert: [docs/figma/home-hero-round-2.md](docs/figma/home-hero-round-2.md).
+- **Header in three rows (2026-11-17, all sites):** promo marquee + pre-header (Feedaty widget, links, socials) +
+  header, built in the `Header / Barra annunci` and `Mobile / Barra annunci` components. See [docs/figma/header.md](docs/figma/header.md).
 - **Theme code (2026-11-13):** `shopify/invoice-request/` holds the cart "Richiedi fattura" block (Liquid snippet + JS +
   tests, `node --test shopify/invoice-request/tests/*.test.*`). It is the only code in the repo.
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
