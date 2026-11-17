@@ -74,3 +74,29 @@ Theme code for the cart block is in [`shopify/invoice-request/`](../../shopify/i
 codice fiscale, partita IVA, SDI and PEC, storage as cart attributes (→ order `note_attributes`), checkout blocked until
 the data is valid, optional VIES check. The README also compares the ready-made apps.
 The example VAT number in the designs is now `IT01234560017`, which passes the check digit (the old `IT01234567890` did not).
+
+## "Marche" menu (2026-11-17, all three sites)
+
+A first-level **Marche** item in the desktop header (`Header / Principale` component, between Accessori and
+Offerte/Promo, so every board shows it) and in the mobile menu M06 (row `Voce · Marche`, after Accessori).
+
+| | TamTam Price | MisterCucina | Trovaincasso |
+|---|---|---|---|
+| Desktop megamenu **06b · Menu · Marche (overlay)** | `304:11937` | `305:22816` | `306:21050` |
+| Mobile **M06b · Menu · Marche (overlay)** | `304:12326` | `305:23276` | `306:21455` |
+| Featured brand card | Samsung | Smeg | Neff |
+| Brand links go to | Samsung → brand page 02c / M02c, the others → PLP 02 / M02 | PLP 02 / M02 | PLP 02 / M02 |
+
+Megamenu content: "Le marche più cercate" (11 logo tiles from the page's `Logo marca` set + "Tutte le marche →"),
+a "Cerca una marca…" field, the A–Z index and "Tutte le marche A–Z" in 5 columns, and a "Marca in evidenza" card with a
+button. Mobile: back link "‹ Menu" (→ M06), search, 9 logo tiles, A–Z list (A–E visible, the screen scrolls).
+
+The A–Z list (41 brands, the same on all three sites) is the union of the brands found on the live sites plus Ariete:
+AEG, Ariete, Beko, Bosch, Candy, De'Longhi, Ducati, Electrolux, Elica, Elleci, Faber, Falmec, Foster, Franke, Grohe,
+Haier, Hisense, Hoover, Hotpoint, iRobot, Indesit, Kärcher, Kenwood, KitchenAid, Krups, Lavazza, LG, Liebherr, Midea,
+Miele, Neff, Philips, Plados, Polti, Samsung, Schock, Siemens, Smeg, Sony, Turbo Air, Whirlpool. **To confirm** with
+the client's vendor list (and whether each site shows only its own brands). The featured-brand promos are placeholders.
+In Shopify the list can be generated from the product vendors (`shop.vendors`), each linking to `/collections/vendors?q=<brand>`
+or to a collection per brand.
+
+Renders: `docs/screenshots/after/<brand>-06b-menu-marche.png`.
