@@ -65,3 +65,22 @@ bars). For the TamTam section order, swap the y of `1:4500` and `1:4477` back. F
 previous state.
 
 Renders: `docs/screenshots/after/<brand>-01-home.png`.
+
+## Proposal: band under the TamTam hero (2026-11-17, not applied yet)
+
+The 4 generic advantages under the hero (`1:4459`: consegna al piano, resi 14 giorni, supporto, pagamenti sicuri)
+should be replaced. The comparison board **`PROVA · Fascia sotto la hero · TamTam (17/11)`** (`280:8735`, x 27200 on
+the TamTam page) shows the first screen of the homepage in 4 versions, with the 1920×1080 fold line:
+
+| Version | Frame | Band |
+|---|---|---|
+| Current | `280:8739` | the 4 advantages |
+| **A · Mix** | `280:10470` | `280:12196`: Feedaty score (4,8 + stars + "1.250 recensioni verificate"), "3 rate" senza interessi con PayPal e Klarna, "3 anni" di estensione garanzia, "0 €" ritiro dell'usato |
+| **B · Carosello marchi** | `280:12243` | `280:13969`: "I migliori marchi" + 8 logo tiles (Samsung, Bosch, LG, Electrolux, Smeg, Whirlpool, Beko, Haier) + arrow |
+| **C · Feedaty + marchi** | `280:14056` | `280:15782`: Feedaty box + 7 logo tiles + arrow |
+
+All bands are 102 px, like the current strip, so nothing below moves. Logo tiles link to the PLP (`36:38`) as a stand-in
+for the brand archive. The previews are clones of the homepage with prototype links removed; the live homepage is
+unchanged. Placeholders: Feedaty score and count, the instalment providers.
+
+Render: `docs/screenshots/after/tamtam-price-prova-fascia-hero.png`.
