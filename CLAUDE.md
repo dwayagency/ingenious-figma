@@ -64,7 +64,8 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
 - **Homepages round 2 (2026-11-16, desktop + mobile M01):** compact category chip bars (TamTam, MisterCucina), "I più venduti"
   right after the hero on TamTam, new Trovaincasso hero ("La cappa ora è nel piano."), shop-the-look hotspots,
   fixed reviews / newsletter / pills sections, stronger promos, full category ticker. TamTam (2026-11-17): Feedaty +
-  brand-logo band under the hero and brand archive boards 02c / M02c (Samsung). Backups (copies named "BACKUP …
+  brand-logo band under the hero and brand archive boards 02c / M02c (Samsung); the same band on MisterCucina and
+  Trovaincasso; photo category banner on the MisterCucina archive pages (trial). Backups (copies named "BACKUP …
   17/11") and how to revert: [docs/figma/home-hero-round-2.md](docs/figma/home-hero-round-2.md).
 - **Theme code (2026-11-13):** `shopify/invoice-request/` holds the cart "Richiedi fattura" block (Liquid snippet + JS +
   tests, `node --test shopify/invoice-request/tests/*.test.*`). It is the only code in the repo.

@@ -96,3 +96,31 @@ Render: `docs/screenshots/after/tamtam-price-prova-fascia-hero.png`.
 All logos open the Samsung example for now: in the theme each logo links to its own brand collection
 (`/collections/vendors?q=<brand>` or a collection per brand). Samsung model names, codes and prices on 02c / M02c are
 placeholders, like the Feedaty score and review count.
+
+## Feedaty + brand band on MisterCucina and Trovaincasso (2026-11-17)
+
+Same band as TamTam version C (Feedaty box + 7 logo tiles + arrow, 102 px; on mobile Feedaty box + scrolling row of
+8 logos). Tiles use `surface/subtle`, the arrow `brand/primary`.
+
+| | MisterCucina | Trovaincasso |
+|---|---|---|
+| Desktop band | `294:22582`, below the category chips (`1:1488`); content below moved down 102 px (homepage 11 721 px) | `294:31549`, below the hero slideshow (`1:2939`); content below moved down 102 px (homepage 11 041 px) |
+| Mobile band (M01) | `294:22669`, after "Categorie" | `294:31647`, after "Hero" |
+| Feedaty | 4,8 · 1.250 recensioni (**placeholder**) | 4,9 · 2.087 recensioni (figure shown on the live site's footer) |
+| Logos | Smeg, Bosch, Electrolux, Franke, Elica, Neff, Samsung (+ Whirlpool on mobile) | Samsung, Bosch, Smeg, Neff, Franke, Elica, Whirlpool (+ Candy on mobile) |
+| Logo links | PLP 02 `41:1026` / M02 `116:3062` (no brand archive board yet) | PLP 02 `42:989` / M02 `119:2729` (no brand archive board yet) |
+
+To remove a desktop band: delete it and move the sections below up by 102 px.
+
+## Category banner on the MisterCucina archive pages (2026-11-17, trial)
+
+On PLP 02 (`41:1026`), 02b (`219:15226`), M02 (`116:3062`) and M02b (`219:16903`) the category title and description
+now sit in a photo banner (`Banner categoria · Cottura`):
+- desktop 1650×220, radius 16, homepage kitchen photo with a navy gradient from the left, eyebrow "REPARTO · 499
+  PRODOTTI" in accent orange, title 52 px, description;
+- mobile 358×170, gradient from the bottom, title + "499 prodotti", description.
+
+The old title and description texts are hidden in `Intestazione` (show them and delete the banner to revert). The
+sub-category chips stay below the banner. If approved, apply to TamTam and Trovaincasso.
+
+Renders: `docs/screenshots/after/mistercucina-02-plp.png`, `docs/screenshots/mobile/mistercucina-m02-plp.png`.
