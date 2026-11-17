@@ -66,7 +66,7 @@ previous state.
 
 Renders: `docs/screenshots/after/<brand>-01-home.png`.
 
-## Proposal: band under the TamTam hero (2026-11-17, not applied yet)
+## Band under the TamTam hero (2026-11-17): version C applied
 
 The 4 generic advantages under the hero (`1:4459`: consegna al piano, resi 14 giorni, supporto, pagamenti sicuri)
 should be replaced. The comparison board **`PROVA · Fascia sotto la hero · TamTam (17/11)`** (`280:8735`, x 27200 on
@@ -84,3 +84,15 @@ for the brand archive. The previews are clones of the homepage with prototype li
 unchanged. Placeholders: Feedaty score and count, the instalment providers.
 
 Render: `docs/screenshots/after/tamtam-price-prova-fascia-hero.png`.
+
+**Applied: C · Feedaty + marchi** (chosen by the client).
+
+| | Desktop | Mobile |
+|---|---|---|
+| Band | `Fascia fiducia · Feedaty + marchi` (`283:10955`) in the homepage `Main` at y 620; the old strip `1:4459` is hidden there and copied into `230:7443` | M01 section `110:1141` renamed `Fascia fiducia · Feedaty + marchi`: Feedaty box (4,8, stars, "1.250 recensioni verificate") + scrolling row of 8 logo tiles; the old row `110:1142` is hidden; backup `BACKUP M01 · Vantaggi …` at x −900 |
+| Brand archive (new) | **02c PLP · Marca · Samsung** (`283:10983`, x 27200 y 2400): copy of PLP 02 with Samsung logo, "Elettrodomestici Samsung", breadcrumb Home / Marche / Samsung, sub-categories, Samsung filter ticked, 6 cards switched to Samsung | **M02c Marca · Samsung · mobile** (`284:11508`, end of the mobile row) |
+| Links | every logo tile → 02c | every logo tile → M02c |
+
+All logos open the Samsung example for now: in the theme each logo links to its own brand collection
+(`/collections/vendors?q=<brand>` or a collection per brand). Samsung model names, codes and prices on 02c / M02c are
+placeholders, like the Feedaty score and review count.
