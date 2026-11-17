@@ -104,7 +104,7 @@ Same band as TamTam version C (Feedaty box + 7 logo tiles + arrow, 102 px; on mo
 
 | | MisterCucina | Trovaincasso |
 |---|---|---|
-| Desktop band | `294:22582`, below the category chips (`1:1488`); content below moved down 102 px (homepage 11 721 px) | `294:31549`, below the hero slideshow (`1:2939`); content below moved down 102 px (homepage 11 041 px) |
+| Desktop band | `294:22582`, **Feedaty + category chips** (no logos, see below) right under the hero; content below moved down 102 px (homepage 11 721 px) | `294:31549`, below the hero slideshow (`1:2939`); content below moved down 102 px (homepage 11 041 px) |
 | Mobile band (M01) | `294:22669`, after "Categorie" | `294:31647`, after "Hero" |
 | Feedaty | 4,8 · 1.250 recensioni (**placeholder**) | 4,9 · 2.087 recensioni (figure shown on the live site's footer) |
 | Logos | Smeg, Bosch, Electrolux, Franke, Elica, Neff, Samsung (+ Whirlpool on mobile) | Samsung, Bosch, Smeg, Neff, Franke, Elica, Whirlpool (+ Candy on mobile) |
@@ -112,7 +112,14 @@ Same band as TamTam version C (Feedaty box + 7 logo tiles + arrow, 102 px; on mo
 
 To remove a desktop band: delete it and move the sections below up by 102 px.
 
-## Category banner on the MisterCucina archive pages (2026-11-17, trial)
+**MisterCucina, one row instead of two (2026-11-17, client feedback):** the chip bar `1:1488` and the Feedaty + logos
+band made two rows under the hero. Now the band `294:22582` (renamed `Fascia fiducia · Feedaty + categorie`) holds the
+Feedaty box + the 7 category chips (grey tiles, photo, name, same links); the logos were removed, the old chip bar was
+deleted (copy in `237:17261`) and the content below moved up 104 px (homepage 11 617 px). Mobile: same, the "Categorie"
+section was moved into the band section `294:22669` in place of the logo row (copy of the old section at x −900).
+MisterCucina therefore has no brand-logo row on the homepage (the "I nostri brand" section further down remains).
+
+## Category banner on the archive pages (2026-11-17, all three sites)
 
 On PLP 02 (`41:1026`), 02b (`219:15226`), M02 (`116:3062`) and M02b (`219:16903`) the category title and description
 now sit in a photo banner (`Banner categoria · Cottura`):
@@ -121,6 +128,12 @@ now sit in a photo banner (`Banner categoria · Cottura`):
 - mobile 358×170, gradient from the bottom, title + "499 prodotti", description.
 
 The old title and description texts are hidden in `Intestazione` (show them and delete the banner to revert). The
-sub-category chips stay below the banner. If approved, apply to TamTam and Trovaincasso.
+sub-category chips stay below the banner.
 
-Renders: `docs/screenshots/after/mistercucina-02-plp.png`, `docs/screenshots/mobile/mistercucina-m02-plp.png`.
+Applied the same way to **TamTam** (02 `36:38`, 02b `208:6453`, M02 `112:1186`, M02b `208:7776`: "Lavatrici", homepage
+washing-machine photo, black gradient, red eyebrow "CATEGORIA · 77 PRODOTTI") and **Trovaincasso** (02 `42:989`, 02b
+`223:13580`, M02 `119:2729`, M02b `223:15023`: "Piani cottura", the "piani aspiranti" hero photo, dark green gradient,
+yellow eyebrow "CATEGORIA · 431 PRODOTTI"). Not applied to the TamTam brand pages 02c / M02c, which have their own
+logo header.
+
+Renders: `docs/screenshots/after/<brand>-02-plp.png`, `docs/screenshots/mobile/<brand>-m02-plp.png`.
