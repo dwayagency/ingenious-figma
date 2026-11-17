@@ -87,6 +87,15 @@ Offerte/Promo, so every board shows it) and in the mobile menu M06 (row `Voce ·
 | Featured brand card | Samsung | Smeg | Neff |
 | Brand links go to | Samsung → brand page 02c / M02c, the others → PLP 02 / M02 | PLP 02 / M02 | PLP 02 / M02 |
 
+**Prototype (overlay):** clicking "Marche" in the header opens the frame **`Overlay · Menu Marche`** as an overlay on
+top of the current page (TamTam `311:12141`, MisterCucina `311:23308`, Trovaincasso `311:32655`, placed under each 06b).
+The overlay is 1920×1080: a transparent strip over the header and a dark scrim under the panel both have a `CLOSE`
+action, so clicking outside the panel closes it; brand links navigate to their page. The 06b boards stay as the static
+view. On mobile, "Marche" in M06 swaps the menu overlay to M06b, and "‹ Menu" swaps back.
+The plugin API cannot set an overlay's position (it stays *Center*). If the panel does not sit right under the header
+in Present mode, select the "Marche" interaction in the `Header / Principale` component and set the overlay position to
+*Top center* (or *Manual* under the header).
+
 Megamenu content: "Le marche più cercate" (11 logo tiles from the page's `Logo marca` set + "Tutte le marche →"),
 a "Cerca una marca…" field, the A–Z index and "Tutte le marche A–Z" in 5 columns, and a "Marca in evidenza" card with a
 button. Mobile: back link "‹ Menu" (→ M06), search, 9 logo tiles, A–Z list (A–E visible, the screen scrolls).
