@@ -130,3 +130,28 @@ Trovaincasso already had a small "Ti serve la fattura?" field and a "+ Richiedi 
 now hidden (replaced by the new block). On mobile the spacing was tightened so everything fits in 844 px.
 
 Renders: `docs/screenshots/after/<brand>-04-cart.png`, `docs/screenshots/mobile/<brand>-m04-cart.png`.
+
+## Delivery and used-appliance pickup rules (2026-11-18, all three sites)
+
+- **Delivery is never free, floor delivery included.** Every "consegna (al piano) gratuita" / "spedizione gratuita
+  (sopra 99 €)" claim was removed. Floor delivery is an option at **+24 €**.
+- **Used-appliance pickup is always free, but only if the customer selects it** ("Gratuito · da selezionare" /
+  "gratuito, su richiesta").
+
+Where it changed:
+- Cart drawers 04 / M04: the top line reads "Consegna a domicilio in 3/5 giorni lavorativi" (Trovaincasso: "In partenza
+  entro 24/48h · consegna al piano +24 €") and the free-shipping progress bar is hidden; "Servizi inclusi" became
+  "Servizi aggiuntivi · selezionali" with two **checkbox options** (`Opzione · Consegna al piano` +24 €,
+  `Opzione · Ritiro dell'usato` gratuito, da selezionare); summary "Spedizione: Calcolata al checkout".
+- PDP 03 / M03 service rows: Consegna al piano "+24 €" (Trovaincasso was "da 29,00 €"), Ritiro dell'usato "Gratuito · da
+  selezionare" (Trovaincasso was "da 19,00 €"); MisterCucina's delivery line and Trovaincasso's "· Spedizione gratuita"
+  after the list price.
+- Compare boards (TamTam 05 / M05), cart pages 08, list-card components (`Consegna al piano +24 €`), homepage and mobile
+  USP / "Perché" texts (MisterCucina "Spedizione gratuita" → "Consegna al piano +24 €"; the pickup descriptions now say
+  "Gratuito: selezionalo nel carrello…"), Trovaincasso pro board 05.
+- Shipping pages 12: the per-category cost column "Spedizione al piano" was renamed "Spedizione a domicilio" (the rates
+  are the base delivery; floor delivery is the +24 € option on top).
+- Kept: the marquee promo "Estensione garanzia 1 anno gratuita", "Crea un account: è gratuito", footer link names.
+
+Also fixed: MisterCucina "Ricerche popolari" pills overlapped (re-spaced 12 px, row clipped with fade); TamTam "Componi
+il tuo kit" Elica card, sale price and struck price overlapped.
