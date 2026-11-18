@@ -56,6 +56,8 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   - Mobile screens M08–M14 (2026-11-13) mirror boards 06–12; ids in [docs/figma/mobile.md](docs/figma/mobile.md).
   - **"Marche" menu (2026-11-17):** first-level header item + megamenu 06b and mobile M06b (top logos + A–Z list of
     41 brands); ids in [docs/figma/pages-b2c.md](docs/figma/pages-b2c.md).
+  - **Invoice request in the cart drawer (2026-11-18):** prominent "Ti serve la fattura?" block above "Vai alla cassa"
+    in 04 and M04, linked to the cart pages 08 / M10.
 - **Product cards (2026-11-16, all three pages):** new card sets `Card prodotto · griglia` / `· lista` and
   `Mobile / Card prodotto · griglia` / `· lista` (brand logo, SKU, stars, availability traffic light, stronger discount
   with savings, "IVA inclusa"), plus grid/list boards 02b and M02b. The old `Card prodotto` components were deleted.

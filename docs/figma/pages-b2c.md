@@ -109,3 +109,24 @@ In Shopify the list can be generated from the product vendors (`shop.vendors`), 
 or to a collection per brand.
 
 Renders: `docs/screenshots/after/<brand>-06b-menu-marche.png`.
+
+## Invoice request in the cart drawer (2026-11-18, all three sites)
+
+The cart drawers (04 desktop, M04 mobile) now have a prominent **"Ti serve la fattura?"** block in the summary, right
+above "Vai alla cassa": invoice icon in a brand-colour circle, title, "Privato o azienda: inserisci i dati prima di
+pagare", "Richiedila" + toggle (off). Light brand tint with a brand-colour border (TamTam red, MisterCucina orange,
+Trovaincasso dark green). Frame `Richiesta fattura` inside `Riepilogo`.
+
+Prototype: clicking the block opens the full cart page with the invoice form (08 desktop, M10 mobile), which is where
+the theme block in `shopify/invoice-request/` lives (in the theme the toggle in the drawer can also open the same
+fields inline, see the README "Cart drawer").
+
+| | TamTam | MisterCucina | Trovaincasso |
+|---|---|---|---|
+| Drawer 04 → 08 | `37:838` → `149:1904` | `43:1932` → `153:5685` | `46:1805` → `154:5110` |
+| Mobile M04 → M10 | `114:1453` → `161:3515` | `117:3398` → `163:8061` | `122:3009` → `164:7117` |
+
+Trovaincasso already had a small "Ti serve la fattura?" field and a "+ Richiedi fattura" link in the drawer: they are
+now hidden (replaced by the new block). On mobile the spacing was tightened so everything fits in 844 px.
+
+Renders: `docs/screenshots/after/<brand>-04-cart.png`, `docs/screenshots/mobile/<brand>-m04-cart.png`.
