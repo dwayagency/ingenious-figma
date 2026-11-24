@@ -38,10 +38,15 @@ official logos are supplied. Instalment amounts are the product price / 3.
 
 ## Energy class on product cards
 
-All four card sets (grid, list, mobile grid, mobile list) have a `Classe energetica` instance in the photo's top-right
-corner (exposed, variant `Classe`) and a boolean property **`Mostra classe energetica`**. Classes set by product type
+All four card sets (grid, list, mobile grid, mobile list) have a row **`Classe energetica · riga`** right above
+"Aggiungi al carrello" (mobile grid/list: at the end of the info column): the EU arrow `Classe energetica` (exposed,
+variant `Classe`) + an underlined link "Scheda classe energetica" (mobile: "Scheda energetica"). The boolean property
+**`Mostra classe energetica`** shows or hides the whole row. To keep grid cards the same height, the photo area was
+made shorter by the height of the row (2026-11-24, second pass; first version had the arrow on the photo). Classes set by product type
 (placeholders to check against the data sheets): washing machines A (Beko, Candy, Indesit, Hoover, Haier B), dryers
 B, washer-dryers D, dishwashers D (Bosch C), fridges/freezers E, ovens A+, cookers A, hoods A (Turbo Air B).
 Hidden on products without an EU energy label: hobs, sinks, microwaves, coffee machines.
+Trovaincasso's sample archive page (02 / 02b / M02) is "Piani cottura": hobs have no EU energy label, so only the
+Samsung NZ84 (induction hob with integrated hood) shows a class there.
 Note: when the property is off, the badge disappears from the instance's layer list too, so turn it on before
 changing the class.
