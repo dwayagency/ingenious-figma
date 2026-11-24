@@ -73,6 +73,9 @@ Full-page renders: `docs/screenshots/after/*.png` (current) and `docs/screenshot
   17/11") and how to revert: [docs/figma/home-hero-round-2.md](docs/figma/home-hero-round-2.md).
 - **Header in three rows (2026-11-17, all sites):** promo marquee + pre-header (Feedaty widget, links, socials) +
   header, built in the `Header / Barra annunci` and `Mobile / Barra annunci` components. See [docs/figma/header.md](docs/figma/header.md).
+- **Warranty, payments, energy class (2026-11-24, all sites):** `Garanzia+` logo and boxes in PDP / minicart / cart
+  page, instalments (Klarna, Scalapay, PagoLight) and Apple Pay / Amazon Pay on the PDP, EU energy-class badge on every
+  product card. See [docs/figma/garanzia-pagamenti-energia.md](docs/figma/garanzia-pagamenti-energia.md).
 - **Theme code (2026-11-13):** `shopify/invoice-request/` holds the cart "Richiedi fattura" block (Liquid snippet + JS +
   tests, `node --test shopify/invoice-request/tests/*.test.*`). It is the only code in the repo.
 - **Access and limits:** the file lives in the *Alessandro Molinari DWAY* team (Education plan). The connector is
